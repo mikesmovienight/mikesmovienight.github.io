@@ -10,9 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Welcome to Mike's Movie Night # add your name
-<!--author-pic: adam-face.jpg-->
-<!--about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.-->
-about-author: Hey, welcome to Mike's movie night. I started this event for students at University of Illinois to enrich their experience in the United States, and now it has grown and become a place for people to have fun, make friends, and watch movies!
+author-pic: mike-face.jpg
+about-author: Hey, welcome to Mike's movie night! I started this event for international students at University of Illinois to enrich their experience in the United States, and it has grown and become a great place to have fun, make friends, and watch movies. My ultimate goal is to bring you some moments of happiness in this crazy, messed up world. Thank you for being part of the movie family!
 
 # Contact links
 email: # Add your Email address
@@ -35,7 +34,7 @@ discus_identifier: mr-brown # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
 
 # Build settings
