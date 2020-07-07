@@ -12,6 +12,12 @@ layout: default
         <div class="header-page">
           <h1 class="page-title">{{page.title}}</h1>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y'}}</time></div>
+          <div class="review">
+            <span>Review:</span>
+            {% for review in page.review %}
+            <div href="{{site.baseurl}}/{{review}}" class="review">| {{ review }}</div>
+            {% endfor %}
+          </div><!-- End Review -->
 <!--          <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>-->
         </div>
         {{page.content | markdownify}}
