@@ -1,0 +1,11 @@
+﻿---
+layout: post
+title: Jumanji - The Next Level
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: jumanji2.jpg # Add image post (optional)
+tags: [Action, Comedy, Adventure]
+review: [豆瓣 6.0, IMDb 6.7, Rotten Tomatoes 71%]
+author: # Add name author (optional)
+---
+
+Jumanji: The Next Level is a 2019 American fantasy adventure comedy film directed by Jake Kasdan and co-written by Kasdan, Jeff Pinkner, and Scott Rosenberg. It is a sequel to 2017's Jumanji: Welcome to the Jungle, is the second follow-up to 1995's Jumanji, and is the fourth installment in the Jumanji franchise. It stars Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Nick Jonas, Alex Wolff, Morgan Turner, Ser'Darius Blain, and Madison Iseman reprising their roles from the previous film, while Awkwafina, Rory McCann, Danny Glover, and Danny DeVito also join the cast. The film's plot takes place three years after Welcome to the Jungle, in which the same group of teenagers, along with an old friend and two unwitting additions, become trapped in Jumanji. There, they all find themselves facing new problems and challenges with both old and new avatars, while having to save the land from a new villain in order to escape.
