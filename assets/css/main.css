@@ -1587,6 +1587,15 @@ pre code {
   margin-bottom: 8px;
 }
 
+.cf::before, .cf::after {
+  content: "";
+  display: table;
+}
+
+.cf::after {
+  clear: both;
+}
+
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
 .main-header,
 .page-image,
