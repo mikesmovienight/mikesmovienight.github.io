@@ -1,9 +1,13 @@
-﻿---
-layout: post
+---
+layout: post 
 title: The Godfather
-img: godfather1.jpg
-tags: [Crime]
+img: the_godfather.jpg
+tags: [Crime, Drama]
+number: No. 1
 review: [豆瓣 9.3, IMDb 9.2, Rotten Tomatoes 98%]
+douban_link: https://movie.douban.com/subject/1291841/
+imdb_link: https://www.imdb.com/title/tt0068646/
+rotten_link: https://www.rottentomatoes.com/m/godfather
 ---
 
-The Godfather is a 1972 American crime film directed by Francis Ford Coppola who co-wrote the screenplay with Mario Puzo, based on Puzo's best-selling 1969 novel of the same name. It is the first installment in The Godfather trilogy. The film features an ensemble cast including Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, and Diane Keaton. The story, spanning from 1945 to 1955, chronicles the Corleone family under patriarch Vito Corleone (Brando), focusing on the transformation of one of his sons, Michael Corleone (Pacino), from reluctant family outsider to ruthless mafia boss.
+The Godfather "Don" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.

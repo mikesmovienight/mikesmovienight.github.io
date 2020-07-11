@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Toy Story 4
+img: toy_story_4.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy]
+number: No. 23
+review: [豆瓣 8.6, IMDb 7.8, Rotten Tomatoes 97%]
+douban_link: https://movie.douban.com/subject/6850547/
+imdb_link: https://www.imdb.com/title/tt1979376/
+rotten_link: https://www.rottentomatoes.com/m/toy_story_4
+---
+
+Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody's slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they're two worlds apart when it comes to what they want from life as a toy.

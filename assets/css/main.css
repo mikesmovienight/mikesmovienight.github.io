@@ -1074,7 +1074,7 @@ pre code {
   position: relative;
   list-style: none;
   float: left;
-  width: 25%;
+  width: 33%;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
@@ -1133,13 +1133,20 @@ pre code {
 
 .post-card .post-card-body .tag {
   text-decoration: none;
-  font-size: 10px;
+  font-size: 12px;
   text-transform: uppercase;
   color: #fff;
 }
 
 .post-card .post-card-body .tag:hover {
   text-decoration: underline;
+}
+
+.post-card .post-card-body .number {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
 }
 
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
@@ -1231,12 +1238,6 @@ pre code {
   font-weight: 300;
 }
 
-.header-page .review {
-  text-align: left;
-  font-size: 13px;
-  text-transform: uppercase;
-  font-weight: 300;
-}
 
 .page-footer {
   margin-top: 30px;
@@ -1252,6 +1253,37 @@ pre code {
   color: #311e3e;
 }
 
+
+.page-footer .review {
+  text-align: left;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+/*
+.page-footer .douban {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+  color: #999999;
+}
+
+.page-footer .imdb {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+  color: #999999;
+}
+
+.page-footer .rotten_tomatoes {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+  color: #999999;
+}
+*/
 .page-footer .page-tag {
   margin-bottom: 10px;
 }

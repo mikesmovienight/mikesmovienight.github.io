@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Big Hero 6
+img: big_hero_6.jpg
+tags: [Animation, Action, Adventure, Family, Sci-Fi]
+number: No. 10
+review: [豆瓣 8.7, IMDb 7.8, Rotten Tomatoes 89%]
+douban_link: https://movie.douban.com/subject/11026735/
+imdb_link: https://www.imdb.com/title/tt2245084/
+rotten_link: https://www.rottentomatoes.com/m/big_hero_6
+---
+
+When a devastating event befalls the city of San Fransokyo and catapults Hiro into the midst of danger, he turns to Baymax and his close friends adrenaline junkie Go Go Tomago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. Determined to uncover the mystery, Hiro transforms his friends into a band of high-tech heroes called "Big Hero 6."

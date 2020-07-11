@@ -1,11 +1,13 @@
-﻿---
-layout: post
+---
+layout: post 
 title: The Prestige
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: prestige.jpg # Add image post (optional)
-tags: [Thriller, Psychology]
+img: the_prestige.jpg
+tags: [Drama, Mystery, Sci-Fi, Thriller]
+number: No. 3
 review: [豆瓣 8.9, IMDb 8.5, Rotten Tomatoes 76%]
-author: # Add name author (optional)
+douban_link: https://movie.douban.com/subject/1780330/
+imdb_link: https://www.imdb.com/title/tt0482571/
+rotten_link: https://www.rottentomatoes.com/m/prestige
 ---
 
-The Prestige is a 2006 psychological thriller film directed by Christopher Nolan and written by Nolan and his brother Jonathan, based on the 1995 novel of the same name by Christopher Priest. It follows Robert Angier and Alfred Borden, rival stage magicians in London at the end of the 19th century. Obsessed with creating the best stage illusion, they engage in competitive one-upmanship, with fatal results.
+In the end of the nineteenth century, in London, Robert Angier, his beloved wife Julia McCullough, and Alfred Borden are friends and assistants of a magician. When Julia accidentally dies during a performance, Robert blames Alfred for her death, and they become enemies. Both become famous and rival magicians, sabotaging the performance of the other on the stage. When Alfred performs a successful trick, Robert becomes obsessed trying to disclose the secret of his competitor with tragic consequences.

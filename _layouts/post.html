@@ -12,16 +12,25 @@ layout: default
         <div class="header-page">
           <h1 class="page-title">{{page.title}}</h1>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y'}}</time></div>
-          <div class="review">
-            <span>Review:</span>
-            {% for review in page.review %}
-            <div href="{{site.baseurl}}/{{review}}" class="review">| {{ review }}</div>
-            {% endfor %}
-          </div><!-- End Review -->
+          
 <!--          <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>-->
         </div>
         {{page.content | markdownify}}
         <div class="page-footer">
+		  <div class="review">
+			<span>REVIEW:</span>
+			{% for review in page.review %}
+			<!-- <div href="{{site.baseurl}}/{{review}}" class="review">| {{ review }}</div> -->
+				{% if forloop.index == 1 %}
+				  <a href="{{page.douban_link}}" class="review">| {{ review }}</a>
+				{% elsif forloop.index == 2 %}
+				  <a href="{{page.imdb_link}}" class="review">| {{ review }}</a>
+				{% elsif forloop.index == 3 %}
+				  <a href="{{page.rotten_link}}" class="review">| {{ review }}</a>
+				{% endif %}
+			{% endfor %}
+		  </div><!-- End Review -->
+          <p></P>
           <div class="page-tag">
             <span>Tags:</span>
             {% for tag in page.tags %}

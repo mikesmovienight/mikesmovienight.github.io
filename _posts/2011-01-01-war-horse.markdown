@@ -1,13 +1,13 @@
-﻿---
-layout: post
+---
+layout: post 
 title: War Horse
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: war-horse.jpg # Add image post (optional)
-tags: [War]
+img: war_horse.jpg
+tags: [Action, Adventure, Drama, History, War]
+number: No. 8
 review: [豆瓣 8.1, IMDb 7.2, Rotten Tomatoes 75%]
-author: # Add name author (optional)
+douban_link: https://movie.douban.com/subject/4206436/
+imdb_link: https://www.imdb.com/title/tt1568911/
+rotten_link: https://www.rottentomatoes.com/m/war_horse
 ---
 
-War Horse is a 2011 British-American epic war film directed and co-produced by Steven Spielberg from a screenplay written by Lee Hall and Richard Curtis, based on Michael Morpurgo's 1982 novel of the same name and its 2007 play adaptation. The film's ensemble cast includes Emily Watson, David Thewlis, Peter Mullan, Niels Arestrup, and Jeremy Irvine in his feature film debut.
-
-Set before and during World War I, it tells of the journey of Joey, a bay Thoroughbred horse raised by British teenager Albert (Irvine), as he is bought by the British Army, leading him to encounter numerous individuals and owners throughout Europe, all the while experiencing the tragedies of the war happening around him.
+On the outbreak of the First World War, Albert's beloved horse 'Joey' is sold to the Cavalry by his Father. After being sent to France, in a bid to survive, Joey has an unexpected journey across war torn Europe. Albert enlists in the British Army, and is wounded during the Battle of the Somme. Whilst recovering in Hospital, he learns of a Horse, found in no mans land.

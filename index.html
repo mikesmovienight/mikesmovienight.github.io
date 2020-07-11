@@ -12,7 +12,10 @@ layout: home-page
         {% for tag in post.tags %}
         <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
         {% endfor %}
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
+        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}&nbsp<span>| {{ post.date | date: '%Y' }}</span></h3></a>
+        <div class="number">
+          {{ post.number}}
+        </div>
       </div>
 
     </div>
