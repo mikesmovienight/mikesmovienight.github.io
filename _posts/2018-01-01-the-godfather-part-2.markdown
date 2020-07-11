@@ -10,4 +10,4 @@ imdb_link: https://www.imdb.com/title/tt8756018/
 rotten_link: https://www.rottentomatoes.com/m/godfather_part_ii
 ---
 
-None
+The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.
