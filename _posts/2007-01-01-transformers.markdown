@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Transformers
+img: transformers.jpg
+tags: [Action, Adventure, Sci-Fi]
+number: No. 31
+review: [豆瓣 8.2, IMDb 7.0, Rotten Tomatoes 58%]
+douban_link: https://movie.douban.com/subject/1794171/
+imdb_link: https://www.imdb.com/title/tt0418279/
+rotten_link: https://www.rottentomatoes.com/m/transformers_the_movie
+---
+
+A long time ago, far away on the planet of Cybertron, a war is being waged between the noble Autobots (led by the wise Optimus Prime) and the devious Decepticons (commanded by the dreaded Megatron) for control over the Allspark, a mystical talisman that would grant unlimited power to whoever possesses it. The Autobots managed to smuggle the Allspark off the planet, but Megatron blasts off in search of it. He eventually tracks it to the planet of Earth (circa 1850), but his reckless desire for power sends him right into the Arctic Ocean, and the sheer cold forces him into a paralyzed state. His body is later found by Captain Archibald Witwicky, but before going into a comatose state Megatron uses the last of his energy to engrave into the Captain's glasses a map showing the location of the Allspark, and to send a transmission to Cybertron. Megatron is then carried away aboard the Captain's ship. A century later, Captain Witwicky's grandson Sam Witwicky (nicknamed Spike by his friends) buys his first car. To his shock, he discovers it to be Bumblebee, an Autobot in disguise who is to protect Spike, who possesses the Captain's glasses and the map engraved on them. But Bumblebee is not the only Transformer to have arrived on Earth - in the desert of Qatar, the Decepticons Blackout and Scorponok attack a U.S. military base, causing the Pentagon to send their special Sector Seven agents to capture all "specimens of this alien race." Spike and his girlfriend Mikaela find themselves in the midst of a grand battle between the Autobots and the Decepticons, stretching from Hoover Dam all the way to Los Angeles. Meanwhile, deep inside Hoover Dam, the cryogenically stored body of Megatron awakens.
