@@ -9,7 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Welcome to Mike's Movie Night # add your name
+author: Movie Night # add your name
+welcome: Welcome to Mike's Movie Night
 author-pic: mike-face.jpg
 about-author: Hey, welcome to Mike's movie night! I started this event for international students at University of Illinois to enrich their experience in the United States, and it has grown and become a great place to have fun, make friends, and watch movies. My ultimate goal is to bring you some moments of happiness in this busy hectic world. Thank you for being part of the movie family!
 
@@ -18,8 +19,8 @@ email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github:  # Add your Github handle
+twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
