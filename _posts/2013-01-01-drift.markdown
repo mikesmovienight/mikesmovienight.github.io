@@ -10,4 +10,4 @@ imdb_link: https://www.imdb.com/title/tt1714833/
 rotten_link: https://www.rottentomatoes.com/m/drift_2013
 ---
 
-None
+In the 70s two brothers battle killer waves, conservative society and ruthless bikers to kick-start the modern surf industry.
