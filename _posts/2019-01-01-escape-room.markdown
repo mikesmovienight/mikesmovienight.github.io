@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Escape Room
-img: escape_room.jpg
+img: escape_room0.jpg
 tags: [Action, Adventure, Horror, Mystery, Thriller]
 number: No. 45
 review: [豆瓣 7.2, IMDb 6.3, Rotten Tomatoes 51%]
