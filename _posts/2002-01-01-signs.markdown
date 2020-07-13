@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Signs
+img: signs.jpg
+tags: [Drama, Mystery, Sci-Fi, Thriller]
+number: No. 69
+review: [豆瓣 6.5, IMDb 6.7, Rotten Tomatoes 74%]
+douban_link: https://movie.douban.com/subject/1298328/
+imdb_link: https://www.imdb.com/title/tt0286106/
+rotten_link: https://www.rottentomatoes.com/m/signs
+---
+
+Preacher Graham Hess loses his faith in God after his wife dies in a brutal car accident. He lives with his children and brother in a farmhouse. Crop circles start to appear in their cornfields; Graham dismisses them as mischief by miscreants. After hearing strange noises and watching news coverage on crop circles appearing all over the world, the family grows suspicious of alien activities. Now they must stick together as a family and believe, to survive and escape the ordeal.

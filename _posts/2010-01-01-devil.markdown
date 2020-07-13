@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Devil
+img: devil.jpg
+tags: [Horror, Mystery, Thriller]
+number: No. 15
+review: [豆瓣 6.5, IMDb 6.2, Rotten Tomatoes 51%]
+douban_link: https://movie.douban.com/subject/3268171/
+imdb_link: https://www.imdb.com/title/tt1314655/
+rotten_link: https://www.rottentomatoes.com/m/devil
+---
+
+In Philadelphia, Detective Bowden is still grieving for his wife and son, killed in a hit-and-run five years ago. When someone jumps from a skyscraper onto a truck, Bowden is sent to investigate. Meanwhile, five strangers are trapped in an elevator in the building where the jumper committed suicide. The communication radio in the elevator is broken but the guards, Lustig and Ramirez, observe the individuals via CCTV as events unfold. Tensions run high among those trapped, so Lustig calls the police and Detective Bowden assumes the case. Without being able to contact the individuals, he tries to work out who they are, but he can only account for four of them. Time is running out for the occupants of the elevator, as Bowden realizes he has to get them out quickly.

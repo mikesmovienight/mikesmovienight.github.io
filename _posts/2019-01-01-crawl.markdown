@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Crawl
+img: crawl.jpg
+tags: [Drama, Horror, Thriller]
+number: No. 65
+review: [豆瓣 5.6, IMDb 6.2, Rotten Tomatoes 83%]
+douban_link: https://movie.douban.com/subject/30210700/
+imdb_link: https://www.imdb.com/title/tt8364368/
+rotten_link: https://www.rottentomatoes.com/m/crawl_2019
+---
+
+Against all logic, the competitive swimmer, Haley, drives into the mouth of a furiously destructive Category 5 hurricane on a collision course with her hometown of Florida, to check in on her estranged father, Dave. There, in their weather-beaten house amid a rapidly sinking and alligator-infested town, Haley and her father find themselves trapped in the labyrinthine mess of their flooded crawl space, where a merciless pair of six-metre predators is silently stalking them. Now--as Haley and Dave are gasping for air in the claustrophobic basement--only their will to survive can help them stand a chance against the scaly adversaries' powerful jaws. Can they escape without getting eaten alive?

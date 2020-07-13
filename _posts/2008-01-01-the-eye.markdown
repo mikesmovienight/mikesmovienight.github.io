@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Eye
+img: the_eye.jpg
+tags: [Drama, Horror, Mystery, Thriller]
+number: No. 31
+review: [豆瓣 6.3, IMDb 5.4, Rotten Tomatoes 22%]
+douban_link: https://movie.douban.com/subject/1774223/
+imdb_link: https://www.imdb.com/title/tt0406759/
+rotten_link: https://www.rottentomatoes.com/m/10008606_eye
+---
+
+The violinist Sydney Wells has been blind since she was five years old due to an accident. She submits to a surgery of cornea transplantation to recover her vision, and while recovering from the operation, she realizes that she's having strange visions. With the support of Dr. Paul Faulkner, Sidney finds who the donor of her eyes and begins a journey to find out the truth behind her visions.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Mama
+img: mama.jpg
+tags: [Horror, Thriller]
+number: No. 19
+review: [豆瓣 6.7, IMDb 6.2, Rotten Tomatoes 63%]
+douban_link: https://movie.douban.com/subject/6837235//
+imdb_link: https://www.imdb.com/title/tt2023587/
+rotten_link: https://www.rottentomatoes.com/m/mama_2013
+---
+
+Jeffrey Desange, senior partner of an investment brokerage, has a breakdown after a financial collapse and kills several co-workers and his estranged wife and kidnaps his two young daughters, Victoria and Lily. When they're found five years later, they're taken in by their uncle (their father's twin brother) and his girlfriend. Macabre events soon make the new guardians suspect that a supernatural evil force named Mama has attached itself to the girls.

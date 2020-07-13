@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Visit
+img: the_visit.jpg
+tags: [Horror, Mystery, Thriller]
+number: No. 27
+review: [豆瓣 6.5, IMDb 6.2, Rotten Tomatoes 67%]
+douban_link: https://movie.douban.com/subject/25850944/
+imdb_link: https://www.imdb.com/title/tt3567288/
+rotten_link: https://www.rottentomatoes.com/m/the_visit_2015
+---
+
+Two children spend a week at their grandparents' house while their single mom goes on a relaxing vacation with her boyfriend. Becca decides to film a documentary about her grandparents to help her mom reconnect with her parents, and to find out some things about her parents as well. While filming, Becca and her little brother Tyler discover a dark secret about their grandparents.

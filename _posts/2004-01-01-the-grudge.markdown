@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Grudge
+img: the_grudge_04.jpg
+tags: [Horror, Mystery, Thriller]
+number: No. 9
+review: [豆瓣 6.3, IMDb 5.9, Rotten Tomatoes 39%]
+douban_link: https://movie.douban.com/subject/1308792/
+imdb_link: https://www.imdb.com/title/tt0391198/
+rotten_link: https://www.rottentomatoes.com/m/the_grudge
+---
+
+Karen Davis, an American Nurse, moves to Tokyo and encounters a supernatural spirit who is vengeful and often possesses its victims. A series of horrifying and mysterious deaths start to occur, with the spirit passing its curse onto each victim. Karen must now find a way to break this spell, before she becomes its next victim.

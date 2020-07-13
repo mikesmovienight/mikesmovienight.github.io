@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Boy
+img: the_boy.jpg
+tags: [Horror, Mystery, Thriller]
+number: No. 7
+review: [豆瓣 6.1, IMDb 6.0, Rotten Tomatoes 30%]
+douban_link: https://movie.douban.com/subject/26359246/
+imdb_link: https://www.imdb.com/title/tt3882082/
+rotten_link: https://www.rottentomatoes.com/m/the_boy
+---
+
+Greta is a young American woman who takes a job as a nanny in a remote English village, only to discover that the family's 8-year-old is a life-sized doll that the parents care for just like a real boy, as a way to cope with the death of their actual son 20 years prior. After violating a list of strict rules, a series of disturbing and inexplicable events bring Greta's worst nightmare to life, leading her to believe that the doll is actually alive.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Hellboy
+img: hellboy.jpg
+tags: [Action, Adventure, Fantasy, Horror, Sci-Fi]
+number: No. 47
+review: [豆瓣 5.8, IMDb 5.2, Rotten Tomatoes 18%]
+douban_link: https://movie.douban.com/subject/24750460/
+imdb_link: https://www.imdb.com/title/tt2274648/
+rotten_link: https://www.rottentomatoes.com/m/hellboy_2019
+---
+
+Hellboy is a supernatural being who is the son of a fallen angel. He came to our world in 1944 as a result of a mystical ritual. The Occultists of the Third Reich had long tried to gain an advantage in the war, hoping to attract the ideal soldier to the ranks of the fascist army. Hellboy was exactly the one they needed, but they never managed to make their plans a reality. The demon from hell fell into the hands of Americans and began to serve them, protecting the world from mysterious threats. This time he is sent to England to meet face to face with Merlin's wife. Just a battle with the Blood Queen will lead to the end of the world, which the monster tried to avoid all his life.

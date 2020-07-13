@@ -3,7 +3,7 @@ layout: post
 title: Happy Death Day
 img: happy_death_day.jpg
 tags: [Horror, Mystery, Thriller]
-number: No. 27
+number: No. 44
 review: [豆瓣 7.1, IMDb 6.5, Rotten Tomatoes 71%]
 douban_link: https://movie.douban.com/subject/27027913/
 imdb_link: https://www.imdb.com/title/tt5308322/

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Nun
+img: the_nun.jpg
+tags: [Horror, Mystery, Thriller]
+number: No. 32
+review: [豆瓣 5.9, IMDb 5.3, Rotten Tomatoes 26%]
+douban_link: https://movie.douban.com/subject/26825664/
+imdb_link: https://www.imdb.com/title/tt5814060/
+rotten_link: https://www.rottentomatoes.com/m/the_nun_2018
+---
+
+When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order's unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in 'The Conjuring 2,' as the abbey becomes a horrific battleground between the living and the damned.

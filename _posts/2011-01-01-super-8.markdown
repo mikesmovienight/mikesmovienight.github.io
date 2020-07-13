@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Super 8
+img: super_8.jpg
+tags: [Mystery, Sci-Fi, Thriller]
+number: No. 40
+review: [豆瓣 6.4, IMDb 7.0, Rotten Tomatoes 81%]
+douban_link: https://movie.douban.com/subject/5503303/
+imdb_link: https://www.imdb.com/title/tt1650062/
+rotten_link: https://www.rottentomatoes.com/m/super_8
+---
+
+SPOILER: In the summer of 1979, a group of friends in a small Ohio town witness a catastrophic train crash while making a super 8 movie and soon suspect that it was not an accident. Shortly after, unusual disappearances and inexplicable events begin to take place in town, and the local Deputy tries to uncover the truth - something more terrifying than any of them could have imagined.

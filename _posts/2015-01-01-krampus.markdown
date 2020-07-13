@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Krampus
+img: krampus.jpg
+tags: [Comedy, Drama, Fantasy, Horror]
+number: No. 41
+review: [豆瓣 6.0, IMDb 6.1, Rotten Tomatoes 66%]
+douban_link: https://movie.douban.com/subject/25962790/
+imdb_link: https://www.imdb.com/title/tt3850590/
+rotten_link: https://www.rottentomatoes.com/m/krampus
+---
+
+When his dysfunctional family clashes over the holidays, young Max (Emjay Anthony) gets disillusioned and turns his back on Christmas. Meanwhile, this lack of festive spirit unleashes the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers. All hell breaks loose as beloved holiday icons take on a monstrous life of their own, laying siege to the fractured family's home and forcing them to fight for one another if they hope to survive.

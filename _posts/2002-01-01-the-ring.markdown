@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Ring
+img: the_ring.jpg
+tags: [Horror, Mystery]
+number: No. 21
+review: [豆瓣 6.4, IMDb 7.1, Rotten Tomatoes 71%]
+douban_link: https://movie.douban.com/subject/1305419/
+imdb_link: https://www.imdb.com/title/tt0298130/
+rotten_link: https://www.rottentomatoes.com/m/ring
+---
+
+Rachel Keller is a journalist investigating a videotape that may have killed four teenagers (including her niece). There is an urban legend about this tape: the viewer will die seven days after watching it. If the legend is correct, Rachel will have to run against time to save her son's and her own life.
