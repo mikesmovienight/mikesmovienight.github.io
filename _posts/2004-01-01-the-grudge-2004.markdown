@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Grudge
+title: The Grudge 2004
 img: the_grudge_04.jpg
 tags: [Horror, Mystery, Thriller]
 number: No. 9
