@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Get Smart
+img: get_smart.jpg
+tags: [Action, Adventure, Comedy]
+number: No. 191
+review: [豆瓣 6.8, IMDb 6.5, Rotten Tomatoes 50%]
+douban_link: https://movie.douban.com/subject/1972701/
+imdb_link: https://www.imdb.com/title/tt0425061/
+rotten_link: https://www.rottentomatoes.com/m/get_smart
+---
+
+American Maxwell Smart works for a Government spy agency in an administrative capacity. When the agency's head office is attacked, the Chief decides to assign Maxwell as a spy and partners him with sexy Agent 99, much to her chagrin. The duo nevertheless set off to combat their attackers by first parachuting off an airplane and landing in Russian territory - followed closely by an over seven feet tall, 400 pound goon, known simply as Dalip. The duo, handicapped by Maxwell's antics, will eventually have their identities compromised, and may be chalked up as casualties, while back in America their attackers have already planted a bomb that is set-up to explode in a concert.

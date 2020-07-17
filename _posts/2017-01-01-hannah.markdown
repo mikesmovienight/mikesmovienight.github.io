@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Hannah
+img: hannah.jpg
+tags: [Drama]
+number: No. 185
+review: [豆瓣 6.8, IMDb 5.9, Rotten Tomatoes 84%]
+douban_link: https://movie.douban.com/subject/26594205/
+imdb_link: https://www.imdb.com/title/tt4432006/
+rotten_link: https://www.rottentomatoes.com/m/hannah_2018
+---
+
+Intimate portrait of a woman drifting between reality and denial when she is left alone to grapple with the consequences of her husband's imprisonment.

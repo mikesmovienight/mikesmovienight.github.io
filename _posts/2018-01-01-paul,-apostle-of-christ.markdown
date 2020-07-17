@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Paul, Apostle of Christ
+img: paul,_apostle_of_christ.jpg
+tags: [Adventure, Biography, Drama, History]
+number: No. 204
+review: [豆瓣 7.5, IMDb 6.6, Rotten Tomatoes 45%]
+douban_link: https://movie.douban.com/subject/27181795/
+imdb_link: https://www.imdb.com/title/tt7388562/
+rotten_link: https://www.rottentomatoes.com/m/paul_apostle_of_christ
+---
+
+Roma, 67 AD. After the great fire that burnt a great part of the city, Emperor Nero points Paul, Jesus' apostle, as guilty of the fire, arresting him and taking him to Mamertine Prison. There prefect Mauritius struggles between his daughter Caelia, who suffers an unknown disease, and his job as warden of the prison commanded by own Nero, that he is considers as a failure on his military carrier. Despite the risks for the Christians, physician and medicine man Luke arrives Roma from Greek Islands to find Paul, living in the house of Aquila and Priscilla, two former Romans turned in Christians that they use their home as shelter for others Roman Christians to save them from Nero's soldiers, who kill all Christians they find, torturing and using them as human candles to light Roma's streets at night. After realizing that Paul is in Mamertine, Luke get access to the jail and he meets Paul, who accepts Luke's request to tell his biography to be known before he is executed by Nero, writing it in a new book about Gospel and Jesus' teachings. Meanwhile Luke writes detailing the beginnings of "The Way" and the birth of what will come to be known as the church, a bound on chains Paul fights the inner demons of his remembers as survivor of much-floggings, shipwreck, starvation, stoning, hunger and thirst, cold and exposure-yet, waiting for his appointment with death and haunted by the shadows of his violent past, wondering if he has been forgotten and if he has the strength to finish well. Mauritius, discovering Luke's intrusion, tries use it to earn Nero's favor in the belief that Paul will confess to be who burnt Roma. Intriguished by Luke, Mauritius permits more meetings between Luke and Paul to disgust of Mauritius' wife Irenica, who lives in eternal suffering by Caelia's ill. Due to the increase of violence by a young Christians looking for vengeance, Priscilla and Aquila doubt to leave Roma with the people saved or stay to save more Romans, at the same time that Luke's life and his efforts for the book endangers by Mauritius' ambitions. With time running out, Luke faces his destiny, that not only will changes everything around him, too around the world.

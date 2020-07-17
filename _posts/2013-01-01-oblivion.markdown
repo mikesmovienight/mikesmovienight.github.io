@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Oblivion
+img: oblivion.jpg
+tags: [Action, Adventure, Sci-Fi]
+number: No. 182
+review: [豆瓣 7.0, IMDb 7.0, Rotten Tomatoes 53%]
+douban_link: https://movie.douban.com/subject/3895511/
+imdb_link: https://www.imdb.com/title/tt1483013/
+rotten_link: https://www.rottentomatoes.com/m/oblivion_2013
+---
+
+One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands.

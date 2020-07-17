@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Birds
+img: the_birds.jpg
+tags: [Drama, Horror, Mystery, Romance]
+number: No. 224
+review: [豆瓣 8.1, IMDb 7.7, Rotten Tomatoes 95%]
+douban_link: https://movie.douban.com/subject/1310175/
+imdb_link: https://www.imdb.com/title/tt0056869/
+rotten_link: https://www.rottentomatoes.com/m/1002448-birds
+---
+
+Melanie Daniels is the modern rich socialite, part of the jet-set who always gets what she wants. When lawyer Mitch Brenner sees her in a pet shop, he plays something of a practical joke on her, and she decides to return the favor. She drives about an hour north of San Francisco to Bodega Bay, where Mitch spends the weekends with his mother Lydia and younger sister Cathy. Soon after her arrival, however, the birds in the area begin to act strangely. A seagull attacks Melanie as she is crossing the bay in a small boat, and then, Lydia finds her neighbor dead, obviously the victim of a bird attack. Soon, birds in the hundreds and thousands are attacking anyone they find out of doors. There is no explanation as to why this might be happening, and as the birds continue their vicious attacks, survival becomes the priority.

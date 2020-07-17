@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Cast Away
+img: cast_away.jpg
+tags: [Adventure, Drama, Romance]
+number: No. 192
+review: [豆瓣 8.6, IMDb 7.8, Rotten Tomatoes 88%]
+douban_link: https://movie.douban.com/subject/1298653/
+imdb_link: https://www.imdb.com/title/tt0162222/
+rotten_link: https://www.rottentomatoes.com/m/cast_away
+---
+
+A man is marooned on an island after his plane crashes into the ocean. Far away from home, his girlfriend, and any human contact, he engages in a battle of wits with himself as he is tested mentally, physically, and emotionally in order to survive.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Lion
+img: lion.jpg
+tags: [Biography, Drama]
+number: No. 119
+review: [豆瓣 7.4, IMDb 8.0, Rotten Tomatoes 84%]
+douban_link: https://movie.douban.com/subject/26220650/
+imdb_link: https://www.imdb.com/title/tt3741834/
+rotten_link: https://www.rottentomatoes.com/m/lion_2016
+---
+
+In 1986, Saroo was a five-year-old child in India of a poor but happy rural family. On a trip with his brother, Saroo soon finds himself alone and trapped in a moving decommissioned passenger train that takes him to Calcutta, 1000 miles away from home. Now totally lost in an alien urban environment and too young to identify either himself or his home to the authorities, Saroo struggles to survive as a street child until he is sent to an orphanage. Soon, Saroo is selected to be adopted by the Brierley family in Tasmania, where he grows up in a loving, prosperous home. However, for all his material good fortune, Saroo finds himself plagued by his memories of his lost family in his adulthood and tries to search for them even as his guilt drives him to hide this quest from his adoptive parents and his girlfriend. Only when he has an epiphany does he realize not only the answers he needs, but also the steadfast love that he has always had with all his loved ones in both worlds.

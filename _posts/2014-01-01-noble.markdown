@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Noble
+img: noble.jpg
+tags: [Biography, Drama]
+number: No. 201
+review: [豆瓣 7.5, IMDb 6.8, Rotten Tomatoes 82%]
+douban_link: https://movie.douban.com/subject/25981983/
+imdb_link: https://www.imdb.com/title/tt2626090/
+rotten_link: https://www.rottentomatoes.com/m/noble_2014
+---
+
+Vietnam. 1989. Fourteen years after the end of the war. When Irish woman Christina Noble flies into Ho Chi Minh City (formerly Saigon) she leaves behind an extraordinary life story. But the best is yet to come. Christina lands in a country "that she wouldn't be able to show you on a map". With a few dollars, a dream and her own hard-won courage, she is about to change everything. For hundreds of thousands of people. Forever. NOBLE is the inspirational true story of a woman who believes that it only takes one person to make a difference. And of how she is proved right.

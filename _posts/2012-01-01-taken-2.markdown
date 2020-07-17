@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Taken 2
+img: taken_2.jpg
+tags: [Action, Thriller]
+number: No. 184
+review: [豆瓣 6.8, IMDb 6.3, Rotten Tomatoes 22%]
+douban_link: https://movie.douban.com/subject/3606971/
+imdb_link: https://www.imdb.com/title/tt1397280/
+rotten_link: https://www.rottentomatoes.com/m/taken_2_2012
+---
+
+The retired CIA agent Bryan Mills invites his teenage daughter Kim and his ex-wife Lenore, who has separated from her second husband, to spend a couple of days in Istanbul where he is working. Meanwhile, the patriarch of the community of the Albanian gang of human trafficking, Murad Krasniqi, seeks revenge for the death of his son and organizes another gang to kidnap Bryan and his family. Bryan and Lenore are abducted by the Albanians, but Kim escapes and is the only hope that Bryan has to escape and save Lenore.

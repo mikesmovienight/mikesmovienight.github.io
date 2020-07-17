@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Geostorm
+img: geostorm.jpg
+tags: [Action, Sci-Fi, Thriller]
+number: No. 81
+review: [豆瓣 6.0, IMDb 5.3, Rotten Tomatoes 16%]
+douban_link: https://movie.douban.com/subject/22266012/
+imdb_link: https://www.imdb.com/title/tt1981128/
+rotten_link: https://www.rottentomatoes.com/m/geostorm
+---
+
+When catastrophic climate change endangers Earth's very survival, world governments unite and create the Dutch Boy Program: a world wide net of satellites, surrounding the planet, that are armed with geoengineering technologies designed to stave off the natural disasters. After successfully protecting the planet for three years, something is starting to go wrong. Two estranged brothers are tasked with solving the program's malfunction before a world wide Geostorm can engulf the planet.

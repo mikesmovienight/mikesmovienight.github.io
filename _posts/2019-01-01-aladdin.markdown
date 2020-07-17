@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Aladdin
+img: aladdin.jpg
+tags: [Adventure, Family, Fantasy, Musical, Romance]
+number: No. 209
+review: [豆瓣 7.5, IMDb 7.0, Rotten Tomatoes 57%]
+douban_link: https://movie.douban.com/subject/26891256/
+imdb_link: https://www.imdb.com/title/tt6139732/
+rotten_link: https://www.rottentomatoes.com/m/aladdin
+---
+
+A kind-hearted street urchin Aladdin vies for the love of the beautiful princess Jasmine, the princess of Agrabah. When he finds a magic lamp, he uses the genie's magic power to make himself a prince in order to marry her. He's also on a mission to stop the powerful Jafar who plots to steal the magic lamp that could make his deepest wishes come true.

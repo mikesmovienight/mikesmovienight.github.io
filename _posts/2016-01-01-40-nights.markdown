@@ -1,0 +1,13 @@
+---
+layout: post 
+title: 40 Nights
+img: 40_nights.jpg
+tags: [Drama]
+number: No. 240
+review: [豆瓣 , IMDb 3.1, Rotten Tomatoes na]
+douban_link: https://movie.douban.com/subject/26641333/
+imdb_link: https://www.imdb.com/title/tt4473806/
+rotten_link: https://www.rottentomatoes.com/m/40_nights_2016
+---
+
+"40 Nights" is the first of the QUEST TRILOGY - films sharing alike themes of sacrifice and faith. These films focus on less known events from the biblical age. The first film examines the pre-ministry life of Jesus (DJ Perry) starting with his baptism with John the Baptist (Terry Jernigan). From there Jesus embarks on his self- exploration journey into the wilderness for 40 nights. He is tempted by the Devil thrice in various forms. Audiences will be treated to a stronger portrayal of Jesus that peeks at his childhood and family upbringing. The result is a Jesus that invokes empathy and sheds light on the true magnitude of his sacrifice for mankind.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Apollo 11
+img: apollo_11.jpg
+tags: [Documentary, History]
+number: No. 91
+review: [豆瓣 8.8, IMDb 8.2, Rotten Tomatoes 99%]
+douban_link: https://movie.douban.com/subject/30390701//
+imdb_link: https://www.imdb.com/title/tt8760684/
+rotten_link: https://www.rottentomatoes.com/m/apollo_11_2019
+---
+
+On its fiftieth anniversary, the events surrounding the actual Apollo 11 space mission are presented solely using archival footage and still photographs of or associated with the mission. The events span from the eleventh hour preparations for the launch to shortly after the safe touchdown of the capsule with its three astronauts back on Earth. The mission is historic as the first time humans had stepped on the surface of the Earth's moon. It arguably made household names of Neil Armstrong and Buzz Aldrin as the first and second to walk on the moon, and slightly less so for the third astronaut, Michael Collins, who remained inside the capsule at the time. It was arguably the most dangerous space mission at the time in part to the astronauts leaving the safety of the capsule.

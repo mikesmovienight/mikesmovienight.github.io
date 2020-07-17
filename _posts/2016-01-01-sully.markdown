@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Sully
+img: sully.jpg
+tags: [Biography, Drama]
+number: No. 77
+review: [豆瓣 8.3, IMDb 7.4, Rotten Tomatoes 85%]
+douban_link: https://movie.douban.com/subject/26416603/
+imdb_link: https://www.imdb.com/title/tt3263904/
+rotten_link: https://www.rottentomatoes.com/m/sully
+---
+
+On Thursday, January 15, 2009, the world witnessed the "Miracle on the Hudson" when pilot Chesley"Sully" Sullenberger (Tom Hanks) glided his disabled plane onto the frigid waters of the Hudson River, saving the lives of all one hundred fifty-five aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and his career.

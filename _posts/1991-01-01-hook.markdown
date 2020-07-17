@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Hook
+img: hook.jpg
+tags: [Adventure, Comedy, Family, Fantasy]
+number: No. 175
+review: [豆瓣 6.9, IMDb 6.8, Rotten Tomatoes 28%]
+douban_link: https://movie.douban.com/subject/1298692/
+imdb_link: https://www.imdb.com/title/tt0102057/
+rotten_link: https://www.rottentomatoes.com/m/hook
+---
+
+Peter Pan (Robin Williams) has grown up to be a cut-throat merger and acquisitions lawyer, and is married to Wendy's (Dame Maggie Smith's) granddaughter, Moira (Caroline Goodall). Captain James Hook (Dustin Hoffman) kidnaps his children, Jack (Charlie Korsmo) and Maggie (Amber Scott), and Peter returns to Neverland with Tinkerbell (Julia Roberts). With the help of her and the Lost Boys, he must remember how to be Peter Pan again in order to save his children by battling with Captain Hook once again.

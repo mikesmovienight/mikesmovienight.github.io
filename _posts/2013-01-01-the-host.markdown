@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Host
+img: the_host.jpg
+tags: [Action, Adventure, Drama, Romance, Sci-Fi, Thriller]
+number: No. 109
+review: [豆瓣 6.0, IMDb 5.9, Rotten Tomatoes 9%]
+douban_link: https://movie.douban.com/subject/4058964//
+imdb_link: https://www.imdb.com/title/tt1517260/
+rotten_link: https://www.rottentomatoes.com/m/the_host_2013
+---
+
+A race of non-corporeal, parasitic aliens who go from planet to planet looking for hosts have come to Earth and basically taken over the human race. It's believed that, once inside of a body, all memories of the host human are gone. Some few free humans remain hidden from them, forming a resistance group. When an alien Seeker (Diane Kruger) captures a girl named Melanie Stryder (Saoirse Ronan) and puts a Wanderer in her body, she hopes to find out where the remaining humans are gathered, but Melanie, a strong fighter able to converse with the alien in her commandeered body, convinces the Wanderer to say nothing. Disappointed by the lack of progress (though suspecting an empathy for the human), the Seeker informs the Wanderer that she'll be removed and placed in a new host while she will enter Melanie. With human lives at risk, Melanie convinces Wanderer to run away and hide out with the humans, but finding them doesn't mean they'll allow an alien presence amongst them.

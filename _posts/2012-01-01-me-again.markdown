@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Me Again
+img: me_again.jpg
+tags: [Comedy, Drama]
+number: No. 227
+review: [豆瓣 , IMDb 5.8, Rotten Tomatoes 70%]
+douban_link: https://movie.douban.com/subject/26335461/
+imdb_link: https://www.imdb.com/title/tt1814790/
+rotten_link: https://www.rottentomatoes.com/m/me_again_2012
+---
+
+Frustrated, deeply dissatisfied and burned out, Pastor Chaplin prays to have a different life. Much to his consternation (and in resemblance to his favorite TV show, Quantum Leap), his "request" is granted. Now he finds himself living the lives of many other, all living about in his town, and wishing this nightmare would end.

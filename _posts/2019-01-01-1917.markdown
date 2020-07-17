@@ -1,0 +1,13 @@
+---
+layout: post 
+title: 1917
+img: 1917.jpg
+tags: [Drama, War]
+number: No. 156
+review: [豆瓣 8.5, IMDb 8.3, Rotten Tomatoes 89%]
+douban_link: https://movie.douban.com/subject/30252495/
+imdb_link: https://www.imdb.com/title/tt8579674/
+rotten_link: https://www.rottentomatoes.com/m/1917_2019
+---
+
+April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Dunkirk
+img: dunkirk.jpg
+tags: [Documentary, Drama, History, War]
+number: No. 230
+review: [豆瓣 7.6, IMDb 7.2, Rotten Tomatoes n/a]
+douban_link: https://movie.douban.com/subject/1437417/
+imdb_link: https://www.imdb.com/title/tt0400391/
+rotten_link: 
+---
+
+A dramatized documentary about the evacuation of the British Expeditionary Force from Dunkirk in May 1940.

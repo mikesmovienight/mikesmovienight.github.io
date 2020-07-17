@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Knowing
+img: knowing.jpg
+tags: [Action, Drama, Mystery, Sci-Fi, Thriller]
+number: No. 160
+review: [豆瓣 6.7, IMDb 6.2, Rotten Tomatoes 33%]
+douban_link: https://movie.douban.com/subject/2354729//
+imdb_link: https://www.imdb.com/title/tt0448011/
+rotten_link: https://www.rottentomatoes.com/m/knowing
+---
+
+In the fall of 1959, for a time capsule, students draw pictures of life as they imagine it will be in 50 years. Lucinda, an odd child who hears voices, swiftly writes a long string of numbers. In 2009, the capsule is opened; student Caleb Koestler gets Lucinda's "drawing" and his father John, an astrophysicist and grieving widower, takes a look. He discovers dates of disasters over the past 50 years with the number who died. Three dates remain, all coming soon. He investigates, learns of Lucinda, and looks for her family. He fears for his son, who's started to hear voices and who is visited by a silent stranger who shows him a vision of fire and destruction. What's going on?

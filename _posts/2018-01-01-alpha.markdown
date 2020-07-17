@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Alpha
+img: alpha.jpg
+tags: [Action, Adventure, Drama, Family]
+number: No. 193
+review: [豆瓣 6.5, IMDb 6.7, Rotten Tomatoes 80%]
+douban_link: https://movie.douban.com/subject/26810318/
+imdb_link: https://www.imdb.com/title/tt4244998/
+rotten_link: https://www.rottentomatoes.com/m/alpha_2018
+---
+
+An epic adventure set in the last Ice Age, Alpha is a fascinating, visually stunning story that shines a light on the origins of man's best friend. While on his first hunt with his tribe's most elite group, a young man is injured and must learn to survive alone in the wilderness. After the young man reluctantly tames a lone wolf abandoned by its pack, the pair learn to rely on each other and become unlikely allies, enduring countless dangers and overwhelming odds in order to find their way home before winter arrives.

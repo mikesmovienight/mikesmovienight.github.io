@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Gravity
+img: gravity.jpg
+tags: [Drama, Sci-Fi, Thriller]
+number: No. 179
+review: [豆瓣 7.9, IMDb 7.7, Rotten Tomatoes 96%]
+douban_link: https://movie.douban.com/subject/3793783/
+imdb_link: https://www.imdb.com/title/tt1454468/
+rotten_link: https://www.rottentomatoes.com/m/gravity_2013
+---
+
+Dr. Ryan Stone (Sandra Bullock) is a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalski (George Clooney) in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone - tethered to nothing but each other and spiraling out into the blackness.

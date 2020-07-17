@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Unbreakable
+img: unbreakable.jpg
+tags: [Drama, Mystery, Sci-Fi, Thriller]
+number: No. 163
+review: [豆瓣 6.8, IMDb 7.3, Rotten Tomatoes 70%]
+douban_link: https://movie.douban.com/subject/1301711/
+imdb_link: https://www.imdb.com/title/tt0217869/
+rotten_link: https://www.rottentomatoes.com/m/unbreakable
+---
+
+David Dunn (Willis) is taking a train from New York City back home to Philadelphia after a job interview that didn't go well when his car jumps the tracks and collides with an oncoming engine, with David the only survivor among the 131 passengers on board. Astoundingly, David is not only alive, he hardly seems to have been touched. As David wonders what has happened to him and why he was able to walk away, he encounters a mysterious stranger, Elijah Prince (Samuel L. Jackson), who explains to David that there are a certain number of people who are "unbreakable" -- they have remarkable endurance and courage, a predisposition toward dangerous behavior, and feel invincible but also have strange premonitions of terrible events. Is David "unbreakable"? And if he is, what are the physical and psychological ramifications of this knowledge?

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: E.T. the Extra-Terrestrial
+img: e.t._the_extra-terrestrial.jpg
+tags: [Family, Sci-Fi]
+number: No. 217
+review: [豆瓣 8.6, IMDb 7.8, Rotten Tomatoes 98%]
+douban_link: https://movie.douban.com/subject/1294638/
+imdb_link: https://www.imdb.com/title/tt0083866/
+rotten_link: https://www.rottentomatoes.com/m/et_the_extraterrestrial
+---
+
+After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie, and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.

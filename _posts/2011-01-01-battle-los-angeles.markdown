@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Battle Los Angeles
+img: battle_los_angeles.jpg
+tags: [Action, Sci-Fi]
+number: No. 117
+review: [豆瓣 6.1, IMDb 5.7, Rotten Tomatoes 36%]
+douban_link: https://movie.douban.com/subject/3041264/
+imdb_link: https://www.imdb.com/title/tt1217613/
+rotten_link: https://www.rottentomatoes.com/m/battle_los_angeles
+---
+
+Los Angeles and other cities around the world are being bombarded by meteors that seem to be slowing down once they hit the earth's atmosphere. The earth is suddenly being invaded by space aliens that have landed off the shore of LA, and who begin killing everybody along the beach. The military is ordered into action. Marine Staff Sergeant Nantz (Aaron Eckhart), who was about to retire, is reassigned to a new platoon. The platoon, flown by chopper to the forward operating base at Santa Monica Airport, is being led by a new 2nd Lt. Martinez (Ramon Rodriguez). They are sent on a mission to rescue some civilians who are trapped at the police station within alien territory. They only have 3 hours to complete their mission and get out before the Air Force bombs that zone.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Wish Upon
+img: wish_upon.jpg
+tags: [Drama, Fantasy, Horror, Mystery, Thriller]
+number: No. 250
+review: [豆瓣 5.9, IMDb 5.0, Rotten Tomatoes 19%]
+douban_link: https://movie.douban.com/subject/26686502/
+imdb_link: https://www.imdb.com/title/tt5322012/
+rotten_link: https://www.rottentomatoes.com/m/wish_upon
+---
+
+A teen girl discovers a magical box that will grant her seven wishes. As she uses her wishes for personal gain, bad things begin to happen to those around her. She discovers an evil entity lives inside the box and may be behind the gruesome deaths.
