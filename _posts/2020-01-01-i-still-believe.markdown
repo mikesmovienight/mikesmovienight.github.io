@@ -10,4 +10,4 @@ imdb_link: https://www.imdb.com/title/tt9779516/
 rotten_link: https://www.rottentomatoes.com/m/i_still_believe
 ---
 
-None
+The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.
