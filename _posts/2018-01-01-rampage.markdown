@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Rampage
+img: rampage.jpg
+tags: [Action, Adventure, Sci-Fi]
+number: No. 290
+review: [豆瓣 6.4, IMDb 6.1, Rotten Tomatoes 51%]
+douban_link: https://movie.douban.com/subject/26430636/
+imdb_link: https://www.imdb.com/title/tt2231461/
+rotten_link: https://www.rottentomatoes.com/m/rampage_2018
+---
+
+Athena-1, a space station owned by gene manipulation company Energyne, is destroyed after a laboratory rat mutates and wreaks havoc. Dr. Kerry Atkins, the lone surviving crew member, is ordered by CEO Claire Wyden to retrieve research canisters containing a pathogen. Atkins is able to flee in the escape pod when the station implodes, but due to damage from the rat it disintegrates upon re-entry, killing her. The falling pieces leave a trail of debris across the United States, including the Everglades in Florida, where a canister is consumed by an American crocodile, and a forest in Wyoming, where a gray wolf is exposed to the pathogen. Primatologist Davis Okoye, a former US Army Special Forces soldier and member of an anti-poaching unit, works at the San Diego Wildlife Sanctuary. He has befriended a rare albino western lowland gorilla named George, having saved him from poachers, and communicates with George using sign language and hand gestures. At night, one of the canisters crash-lands in George's habitat, and George is exposed to the pathogen..

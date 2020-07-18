@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Giver
+img: giver.jpg
+tags: [Reality-TV]
+number: No. 289
+review: [豆瓣 n/a, IMDb 7.6, Rotten Tomatoes 35%]
+douban_link: 
+imdb_link: https://www.imdb.com/title/tt2642134/
+rotten_link: https://www.rottentomatoes.com/m/the_giver
+---
+
+None

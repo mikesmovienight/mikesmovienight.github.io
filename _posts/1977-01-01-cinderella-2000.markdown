@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Cinderella 2000
+img: cinderella_2000.jpg
+tags: [Musical, Sci-Fi]
+number: No. 328
+review: [豆瓣 n/a, IMDb 3.0, Rotten Tomatoes 84%]
+douban_link: https://movie.douban.com/subject/3612855/
+imdb_link: https://www.imdb.com/title/tt0075850/
+rotten_link: https://www.rottentomatoes.com/m/cinderella_2013
+---
+
+None

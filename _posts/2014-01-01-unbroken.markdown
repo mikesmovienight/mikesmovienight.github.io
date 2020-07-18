@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Unbroken
+img: unbroken.jpg
+tags: [Biography, Drama, Sport, War]
+number: No. 301
+review: [豆瓣 6.9, IMDb 7.2, Rotten Tomatoes 50%]
+douban_link: https://movie.douban.com/subject/10548265/
+imdb_link: https://www.imdb.com/title/tt1809398/
+rotten_link: https://www.rottentomatoes.com/m/unbroken_2014
+---
+
+The life of Louis Zamperini, an Olympic athlete who joined the armed forces during the second world war. Only to be captured by the Japanese navy after a plane crash in the Pacific. During his capture, Louie must continue his fight by surviving through the war.

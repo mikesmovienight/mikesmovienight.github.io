@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Mr. & Mrs. Smith
+img: mr._&_mrs._smith.jpg
+tags: [Action, Comedy, Crime, Thriller]
+number: No. 334
+review: [豆瓣 7.7, IMDb 6.5, Rotten Tomatoes 60%]
+douban_link: https://movie.douban.com/subject/1309199//
+imdb_link: https://www.imdb.com/title/tt0356910/
+rotten_link: https://www.rottentomatoes.com/m/mr_and_mrs_smith
+---
+
+John and Jane Smith are a normal married couple, living a normal life in a normal suburb, working normal jobs...well, if you can call secretly being assassins "normal". But neither Jane nor John knows about their spouse's secret, until they are surprised to find each other as targets! But on their quest to kill each other, they learn a lot more about each other than they ever did in five (or six) years of marriage.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Everest
+img: everest.jpg
+tags: [Action, Adventure, Biography, Drama, Thriller]
+number: No. 274
+review: [豆瓣 7.5, IMDb 7.1, Rotten Tomatoes 73%]
+douban_link: https://movie.douban.com/subject/22265299/
+imdb_link: https://www.imdb.com/title/tt2719848/
+rotten_link: https://www.rottentomatoes.com/m/everest_2015
+---
+
+On the morning of May 10, 1996, climbers from two commercial expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.

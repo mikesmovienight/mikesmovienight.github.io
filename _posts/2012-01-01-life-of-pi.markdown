@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Life of Pi
+img: life_of_pi.jpg
+tags: [Adventure, Drama, Fantasy]
+number: No. 288
+review: [豆瓣 9.1, IMDb 7.9, Rotten Tomatoes 87%]
+douban_link: https://movie.douban.com/subject/1929463/
+imdb_link: https://www.imdb.com/title/tt0454876/
+rotten_link: https://www.rottentomatoes.com/m/life_of_pi
+---
+
+In Canada, a writer visits the Indian storyteller Pi Patel and asks him to tell his life story. Pi tells the story of his childhood in Pondicherry, India, and the origin of his nickname. One day, his father, a zoo owner, explains that the municipality is no longer supporting the zoo and he has hence decided to move to Canada, where the animals the family owns would also be sold. They board on a Japanese cargo ship with the animals and out of the blue, there is a storm, followed by a shipwrecking. Pi survives in a lifeboat with a zebra, an orangutan, a hyena and a male Bengal tiger nicknamed Richard Parker. They are adrift in the Pacific Ocean, with aggressive hyena and Richard Parker getting hungry. Pi needs to find a way to survive.

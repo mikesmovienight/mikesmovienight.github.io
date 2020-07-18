@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Twister
+img: twister.jpg
+tags: [Action, Adventure, Thriller]
+number: No. 348
+review: [豆瓣 7.3, IMDb 6.4, Rotten Tomatoes 57%]
+douban_link: https://movie.douban.com/subject/1292454/
+imdb_link: https://www.imdb.com/title/tt0117998/
+rotten_link: https://www.rottentomatoes.com/m/1071167_twister
+---
+
+TV weatherman Bill Harding is trying to get his tornado-hunter wife, Jo, to sign divorce papers so he can marry his girlfriend Melissa. But Mother Nature, in the form of a series of intense storms sweeping across Oklahoma, has other plans. Soon the three have joined the team of stormchasers as they attempt to insert a revolutionary measuring device into the very heart of several extremely violent tornados.

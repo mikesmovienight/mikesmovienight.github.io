@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Home Run
+img: home_run.jpg
+tags: [Drama, Sport]
+number: No. 266
+review: [豆瓣 5.9, IMDb 5.9, Rotten Tomatoes 45%]
+douban_link: https://movie.douban.com/subject/21939307/
+imdb_link: https://www.imdb.com/title/tt2051894/
+rotten_link: https://www.rottentomatoes.com/m/home_run_2013
+---
+
+Forced back to his small home town, an alcoholic baseball hotshot fakes recovery to regain his position on the roster, coaches a little league team to regain his popularity, pursues his old flame to regain a romance, all while finding redemption among a group of addicts.

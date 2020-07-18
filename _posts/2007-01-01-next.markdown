@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Next
+img: next.jpg
+tags: [Action, Sci-Fi, Thriller]
+number: No. 311
+review: [豆瓣 7.1, IMDb 6.2, Rotten Tomatoes 28%]
+douban_link: https://movie.douban.com/subject/1793909/
+imdb_link: https://www.imdb.com/title/tt0435705/
+rotten_link: https://www.rottentomatoes.com/m/next
+---
+
+Possessing the extraordinary ability to see precisely two minutes into the future, the low-profile Las Vegas stage magician, Cris Johnson, has managed to keep his unusual skill under the radar. However, Johnson's rare talent has caught the attention of the tough counter-terrorism FBI agent, Callie Ferris, who intends to use the illusionist's unfailing charisma to thwart the murderous plans of a ruthless group of Russian terrorists. Now, a stolen nuclear device threatens to level California, as Cris' beautiful girlfriend, Liz, is being used by the criminals to gain added leverage. Can Cris save both the hostage and the city of Los Angeles with his peculiar gift?

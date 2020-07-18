@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Woodlawn
+img: woodlawn.jpg
+tags: [Drama, Sport]
+number: No. 265
+review: [豆瓣 6.5, IMDb 6.5, Rotten Tomatoes 73%]
+douban_link: https://movie.douban.com/subject/26343766/
+imdb_link: https://www.imdb.com/title/tt4183692/
+rotten_link: https://www.rottentomatoes.com/m/woodlawn
+---
+
+When Woodlawn High School in Birmingham, Alabama is controversially desegregated in 1973, Tony Nathan, a gifted black high school football player, joins the school's predominantly white football team along with several other black players. The coach, Tandy Gerelds, tells the team to use their shared anger to unite them, but black and white players clash on and off the field. After a riot at the school, Gerelds consents to allowing traveling sports chaplain Hank Erwin to speak to the team as a "motivational speaker". Hank's speech moves nearly the entire team to accept Hank's invitation to commit their lives to Jesus Christ, and join together in prayer. Gerelds does not accept the invitation, and is unsure what to make of the event..

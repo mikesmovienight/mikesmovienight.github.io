@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Instant Family
+img: instant_family.jpg
+tags: [Comedy, Drama]
+number: No. 307
+review: [豆瓣 7.5, IMDb 7.3, Rotten Tomatoes 82%]
+douban_link: https://movie.douban.com/subject/27150284/
+imdb_link: https://www.imdb.com/title/tt7401588/
+rotten_link: https://www.rottentomatoes.com/m/instant_family
+---
+
+Married couple Pete and Ellie Wagner, feeling a void in the marriage, visit a foster care center. Two social workers, Karen and Sharon, guide the hopeful parents on the steps to getting into becoming adoptive parents. The couples are brought to a fair where they have the chance to go up to kids that they are interested in adopting. Pete and Ellie walk by the teenagers, although Ellie shows hesitance over raising a teen, but one of the teens, Lizzie, informs Ellie that they all know no one wants to adopt the teens. Pete and Ellie talk to Karen and Sharon over potentially taking in Lizzie. The social workers inform the couple that Lizzie's mother is a drug addict who is currently in jail, and she set their home on fire because she left the crack pipe lit. It also turns out that Lizzie has two younger siblings, Juan and Lita. Although this seems like more of a challenge for Pete and Ellie, they agree to meet the siblings. Pete and Ellie have Thanksgiving dinner with Ellie's family, where they all make comments about never having confidence in the Wagners adopting kids. Ellie has enough and decides that they will go through with the foster care to prove that they can be good parents..

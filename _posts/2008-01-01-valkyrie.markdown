@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Valkyrie
+img: valkyrie.jpg
+tags: [Drama, History, Thriller, War]
+number: No. 275
+review: [豆瓣 7.1, IMDb 7.1, Rotten Tomatoes 62%]
+douban_link: https://movie.douban.com/subject/2028647/
+imdb_link: https://www.imdb.com/title/tt0985699/
+rotten_link: https://www.rottentomatoes.com/m/valkyrie
+---
+
+In Nazi Germany during World War II, as the tide turned in favor of the Allies, a cadre of senior German officers and politicians desperately plot to topple the Nazi regime before the nation is crushed in a nearly inevitable defeat. To this end, Colonel Claus von Stauffenberg, an Army officer convinced he must save Germany from Adolf Hitler, is recruited to mastermind a real plan. To do so, he arranges for the internal emergency measure, Operation: Valkyrie, to be changed to enable his fellows to seize control of Berlin after the assassination of Der Führer. However, even as the plan is put into action, a combination of bad luck and human failings conspire on their own to create a tragedy that would prolong the greater one gripping Europe.

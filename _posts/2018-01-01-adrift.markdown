@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Adrift
+img: adrift.jpg
+tags: [Action, Adventure, Biography, Drama, Romance, Thriller]
+number: No. 313
+review: [豆瓣 6.8, IMDb 6.6, Rotten Tomatoes 70%]
+douban_link: https://movie.douban.com/subject/26937563/
+imdb_link: https://www.imdb.com/title/tt6306064/
+rotten_link: https://www.rottentomatoes.com/m/adrift_2018
+---
+
+Starring Shailene Woodley and Sam Claflin, Adrift is based on the inspiring true story of two free spirits whose chance encounter leads them first to love, and then to the adventure of a lifetime. As the two avid sailors set out on a journey across the ocean, Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn't anticipate they would be sailing directly into one of the most catastrophic hurricanes in recorded history. In the aftermath of the storm, Tami awakens to find Richard badly injured and their boat in ruins. With no hope for rescue, Tami must find the strength and determination to save herself and the only man she has ever loved. Adrift is the unforgettable story about the resilience of the human spirit and the transcendent power of love.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The 33
+img: the_33.jpg
+tags: [Biography, Drama, History]
+number: No. 350
+review: [豆瓣 7.5, IMDb 6.9, Rotten Tomatoes 48%]
+douban_link: https://movie.douban.com/subject/10568385/
+imdb_link: https://www.imdb.com/title/tt2006295/
+rotten_link: https://www.rottentomatoes.com/m/the_33
+---
+
+A docudramatic account of the 2010 Chilean mine disaster is presented, where the thirty-three miners who went into the San José Mine in Copiapó, Chile in the middle of the Atacama Desert on August 5 were trapped 700 meters underground for sixty-nine days, with all thirty-three eventually able to make it out of the mine alive. That day, mine foreman, Luis "Don Lucho" Urzúa, reported his concerns to mine owner, Carlos Castillo, about the unstable nature of the mountain under which the mine is located, those concerns which went unheeded. Don Lucho one of the thirty-three, went to work as usual into the mine, when that instability led to collapse in some of the underground shafts, the thirty-three who were able to make it to the refuge area, however with communication channels to the surface inoperable. Under normal circumstances, the refuge area had enough supplies to last thirty men three days. The miners also discovered that the company had failed to place the requisite ladders from the refuge area to the surface, and that the primary route out was now blocked by a shifted rock, its mass the equivalent of the Empire State Building. The thirty-three were ultimately led by Mario Sepúlveda, who was not going to let any of the thirty-three take priority over any of the others, especially in the initial panic and instinct for self-survival among some. On the surface, loved ones of the trapped miners held vigil at the mine, with María Segovia, elder sister of trapped miner Dario Segovia, arguably the most outspoken in condemnation of the powers that be not doing anything to search for the miners, not knowing if they were dead or alive, but who was also quick to give praise where praise was due. That praise largely went to the relatively new Minister of Mines, Laurence Golborne, who was determined both to do whatever he could on behalf of the government to look for the men and to provide accurate assessments to those holding vigil of the situation, especially in Castillo seeing miner deaths solely as an unfortunate nature of the business. The chief engineer assigned to drill toward the refuge area in the hopes that the miners were there was Andre Sougarret, who admitted that the process was not a scientific one as one would have hoped. Once the miners were discovered alive in the refuge area, the next phase of trying to extract them held its own new challenges for all concerned, both logistical and emotional.

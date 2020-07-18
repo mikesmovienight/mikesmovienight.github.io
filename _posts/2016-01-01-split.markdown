@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Split
+img: split.jpg
+tags: [Horror, Thriller]
+number: No. 304
+review: [豆瓣 7.4, IMDb 7.3, Rotten Tomatoes 51%]
+douban_link: https://movie.douban.com/subject/26600660/
+imdb_link: https://www.imdb.com/title/tt4972582/
+rotten_link: https://www.rottentomatoes.com/m/split
+---
+
+Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher (Betty Buckley), there remains one still submerged who is set to materialize and dominate all of the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him -- as well as everyone around him -- as the walls between his compartments shatter.

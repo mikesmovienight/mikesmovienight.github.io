@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Skyfall
+img: skyfall.jpg
+tags: [Action, Adventure, Thriller]
+number: No. 297
+review: [豆瓣 7.1, IMDb 7.7, Rotten Tomatoes 92%]
+douban_link: https://movie.douban.com/subject/2363876/
+imdb_link: https://www.imdb.com/title/tt1074638/
+rotten_link: https://www.rottentomatoes.com/m/skyfall
+---
+
+When James Bond's (Daniel Craig's) latest assignment goes gravely wrong and Agents around the world are exposed, MI6 is attacked, forcing (M Dame Judi Dench) to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory (Ralph Fiennes), the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows, aided only by field agent, Miss Eve Moneypenny (Naomie Harris), following a trail to the mysterious Tiago Rodriguez, a.k.a. Raoul Silva (Javier Bardem), whose lethal and hidden motives have yet to reveal themselves.
