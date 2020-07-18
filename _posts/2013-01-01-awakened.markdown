@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Awakened
+img: awakened.jpg
+tags: [Drama, Mystery, Thriller]
+number: No. 377
+review: [豆瓣 n/a, IMDb 3.5, Rotten Tomatoes 56%]
+douban_link: https://movie.douban.com/subject/5150793/
+imdb_link: https://www.imdb.com/title/tt1669268/
+rotten_link: https://www.rottentomatoes.com/m/awakened_2013
+---
+
+None

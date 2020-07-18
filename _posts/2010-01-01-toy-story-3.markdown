@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Toy Story 3
+img: toy_story_3.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy]
+number: No. 392
+review: [豆瓣 8.8, IMDb 8.3, Rotten Tomatoes 98%]
+douban_link: https://movie.douban.com/subject/1858711//
+imdb_link: https://www.imdb.com/title/tt0435761/
+rotten_link: https://www.rottentomatoes.com/m/toy_story_3
+---
+
+Woody, Buzz and the whole gang are back. As their owner Andy prepares to depart for college, his loyal toys find themselves in daycare where untamed tots with their sticky little fingers do not play nice. So, it's all for one and one for all as they join Barbie's counterpart Ken, a thespian hedgehog named Mr. Pricklepants and a pink, strawberry-scented teddy bear called Lots-o'-Huggin' Bear to plan their great escape.

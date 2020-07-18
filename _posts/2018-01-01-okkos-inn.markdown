@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Okko's Inn
+img: okkos_inn.jpg
+tags: [Animation, Adventure, Drama, Family, Fantasy]
+number: No. 385
+review: [豆瓣 7.5, IMDb 7.0, Rotten Tomatoes 100%]
+douban_link: https://movie.douban.com/subject/30205667//
+imdb_link: https://www.imdb.com/title/tt8328740/
+rotten_link: https://www.rottentomatoes.com/m/okkos_inn
+---
+
+None

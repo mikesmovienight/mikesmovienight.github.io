@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Lion King (1994)
+img: the_lion_king_1994.jpg
+tags: [Animation, Adventure, Drama, Family, Musical]
+number: No. 428
+review: [豆瓣 9.0, IMDb 8.5, Rotten Tomatoes 93%]
+douban_link: https://movie.douban.com/subject/1301753//
+imdb_link: https://www.imdb.com/title/tt0110357/
+rotten_link: https://www.rottentomatoes.com/m/the_lion_king
+---
+
+A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?

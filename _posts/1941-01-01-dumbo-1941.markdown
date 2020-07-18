@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Dumbo (1941)
+img: dumbo_1941.jpg
+tags: [Animation, Drama, Family, Musical]
+number: No. 409
+review: [豆瓣 8.3, IMDb 7.2, Rotten Tomatoes 98%]
+douban_link: https://movie.douban.com/subject/1304603/
+imdb_link: https://www.imdb.com/title/tt0033563/
+rotten_link: https://www.rottentomatoes.com/m/dumbo
+---
+
+The stork delivers a baby elephant to Mrs. Jumbo, veteran of the circus, but the newborn is ridiculed because of his truly enormous ears and dubbed "Dumbo". After being separated from his mother, Dumbo is relegated to the circus' clown acts; it is up to his only friend, a mouse, to assist Dumbo to achieve his full potential.

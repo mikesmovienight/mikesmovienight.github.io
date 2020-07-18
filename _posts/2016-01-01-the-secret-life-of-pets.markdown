@@ -3,7 +3,7 @@ layout: post
 title: The Secret Life of Pets
 img: the_secret_life_of_pets.jpg
 tags: [Animation, Adventure, Comedy, Family]
-number: No. 357
+number: No. 398
 review: [豆瓣 7.7, IMDb 6.5, Rotten Tomatoes 73%]
 douban_link: https://movie.douban.com/subject/21817627/
 imdb_link: https://www.imdb.com/title/tt2709768/

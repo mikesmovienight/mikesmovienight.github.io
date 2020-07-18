@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Frozen II
+img: frozen_ii.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy, Musical]
+number: No. 408
+review: [豆瓣 7.2, IMDb 6.9, Rotten Tomatoes 77%]
+douban_link: https://movie.douban.com/subject/25887288/
+imdb_link: https://www.imdb.com/title/tt4520988/
+rotten_link: https://www.rottentomatoes.com/m/frozen_ii
+---
+
+Having harnessed her ever-growing power after lifting the dreadful curse of the eternal winter in Frozen (2013), the beautiful conjurer of snow and ice, Queen Elsa, now rules the peaceful kingdom of Arendelle, enjoying a happy life with her sister, Princess Anna. However, a melodious voice that only Elsa can hear keeps her awake, inviting her to the mystical enchanted forest that the sisters' father told them about a long time ago. Now, unable to block the thrilling call of the secret siren, Elsa, along with Anna, Kristoff, Olaf, and Sven summons up the courage to follow the voice into the unknown, intent on finding answers in the perpetually misty realm in the woods. More and more, an inexplicable imbalance is hurting not only her kingdom but also the neighboring tribe of Northuldra. Can Queen Elsa put her legendary magical skills to good use to restore peace and stability?

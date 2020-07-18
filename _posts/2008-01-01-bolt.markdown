@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Bolt
+img: bolt.jpg
+tags: [Animation, Adventure, Comedy, Drama, Family]
+number: No. 395
+review: [豆瓣 7.4, IMDb 6.8, Rotten Tomatoes 89%]
+douban_link: https://movie.douban.com/subject/1793912/
+imdb_link: https://www.imdb.com/title/tt0397892/
+rotten_link: https://www.rottentomatoes.com/m/bolt
+---
+
+Bolt, an American white shepherd, has lived his whole life on the set of his action TV show, where he believes he has superpowers. When separated from the studio by accident, he meets a female alley cat named Mittens and a hamster named Rhino. He's trying to find the way home, to the studio. Along the way, he learns that he doesn't have superpowers and that the show is not real.

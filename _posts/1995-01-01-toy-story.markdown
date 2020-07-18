@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Toy Story
+img: toy_story.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy]
+number: No. 390
+review: [豆瓣 8.4, IMDb 8.3, Rotten Tomatoes 100%]
+douban_link: https://movie.douban.com/subject/1291575/
+imdb_link: https://www.imdb.com/title/tt0114709/
+rotten_link: https://www.rottentomatoes.com/m/toy_story
+---
+
+A little boy named Andy loves to be in his room, playing with his toys, especially his doll named "Woody". But, what do the toys do when Andy is not with them, they come to life. Woody believes that his life (as a toy) is good. However, he must worry about Andy's family moving, and what Woody does not know is about Andy's birthday party. Woody does not realize that Andy's mother gave him an action figure known as Buzz Lightyear, who does not believe that he is a toy, and quickly becomes Andy's new favorite toy. Woody, who is now consumed with jealousy, tries to get rid of Buzz. Then, both Woody and Buzz are now lost. They must find a way to get back to Andy before he moves without them, but they will have to pass through a ruthless toy killer, Sid Phillips.

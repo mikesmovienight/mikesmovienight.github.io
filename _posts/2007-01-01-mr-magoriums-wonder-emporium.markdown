@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Mr. Magorium's Wonder Emporium
+img: mr_magoriums_wonder_emporium.jpg
+tags: [Comedy, Family, Fantasy]
+number: No. 422
+review: [豆瓣 7.0, IMDb 6.2, Rotten Tomatoes 38%]
+douban_link: https://movie.douban.com/subject/1783461/
+imdb_link: https://www.imdb.com/title/tt0457419/
+rotten_link: https://www.rottentomatoes.com/m/mr_magoriums_wonder_emporium
+---
+
+Molly Mahoney is the manager of Mr. Magorium's Wonder Emporium, the awesome toy store owned by Mr. Edward Magorium. Molly was a promising composer and piano player when she was a girl, and now she is a twenty-three year-old insecure woman who feels stuck in her job. Among the costumers of the Emporium is the lonely hat collector, Eric Applebaum, who has only Molly and Mr. Magorium for friends. When the last pair of shoes that Mr. Magorium bought in Toscana is worn, he hires the accountant, Henry Weston to adjust the accounts of the Emporium. Furthermore, he claims that he is two hundred and forty-three years old and his time to go has come; he gives a block of wood called Congreve cube to Molly and asks Henry to transfer the Emporium to her name. Molly tries to convince Mr. Magorium to stay in his magical toy store instead of "going".
