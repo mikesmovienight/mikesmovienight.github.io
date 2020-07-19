@@ -1,0 +1,79 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+  
+  {% assign last_1 = paginator.total_pages | minus: 1 %}
+  {% if paginator.page == 1 %}
+    {% for page in (1..5) %}
+		{% if page == paginator.page %}
+		  <font size="+1.5"><b>{{ page }}</b></font>
+		{% elsif page == 1 %}
+		  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+	
+  {% elsif paginator.page == 2 %}
+    {% for page in (1..5) %}
+		{% if page == paginator.page %}
+		  <font size="+1.5"><b>{{ page }}</b></font>
+		{% elsif page == 1 %}
+		  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+  
+  {% elsif paginator.page == paginator.total_pages%}
+    {% assign start_idx = paginator.page | minus: 4 %}
+	{% for page in (start_idx..paginator.total_pages) %}
+		{% if page == paginator.page %}
+		  <font size="+1.5"><b>{{ page }}</b></font>
+		{% elsif page == 1 %}
+		  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+  
+  {% elsif paginator.page == last_1%}
+    {% assign start_idx = paginator.page | minus: 3 %}
+	{% for page in (start_idx..paginator.total_pages) %}
+		{% if page == paginator.page %}
+		  <font size="+1.5"><b>{{ page }}</b></font>
+		{% elsif page == 1 %}
+		  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+  
+  {% else %}
+    {% assign start_idx = paginator.page | minus: 2 %}
+	{% assign end_idx = paginator.page | plus: 2 %}
+	{% for page in (start_idx..end_idx) %}
+		{% if page == paginator.page %}
+		  <font size="+1.5"><b>{{ page }}</b></font>
+		{% elsif page == 1 %}
+		  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+		{% else %}
+		  <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+  {% endif %}
+  
+  {% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+		<span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+	
+	
+	
