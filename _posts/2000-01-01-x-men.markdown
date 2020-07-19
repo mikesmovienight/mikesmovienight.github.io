@@ -1,0 +1,13 @@
+---
+layout: post 
+title: X-Men
+img: x-men.jpg
+tags: [Action, Adventure, Sci-Fi]
+number: No. 547
+review: [豆瓣 7.7, IMDb 7.4, Rotten Tomatoes 81%]
+douban_link: https://movie.douban.com/subject/1295250/
+imdb_link: https://www.imdb.com/title/tt0120903/
+rotten_link: https://www.rottentomatoes.com/m/xmen
+---
+
+In a world where both Mutants and Humans fear each other, Marie, better known as Rogue, runs away from home and hitches a ride with another mutant, known as Logan, a.k.a. Wolverine. Professor Charles Xavier, who owns a school for young mutants, sends Storm and Cyclops to bring them back before it is too late. Magneto, who believes a war is approaching, has an evil plan in mind, and needs young Rogue to help him.

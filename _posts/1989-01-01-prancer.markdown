@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Prancer
+img: prancer.jpg
+tags: [Drama, Family, Fantasy]
+number: No. 577
+review: [豆瓣 7.9, IMDb 6.4, Rotten Tomatoes 67%]
+douban_link: https://movie.douban.com/subject/2139174/
+imdb_link: https://www.imdb.com/title/tt0098115/
+rotten_link: https://www.rottentomatoes.com/m/prancer
+---
+
+Jessica, the daughter of an impoverished farmer, still believes in Santa Claus. So when she comes across a reindeer with an injured leg, it makes perfect sense to her to assume that it is Prancer, who had fallen from a Christmas display in town. She hides him in her barn and feeds him cookies, until she can return him to Santa. Her father finds him and decides to sell him to the butcher, not for venison chops, but as an advertising display.

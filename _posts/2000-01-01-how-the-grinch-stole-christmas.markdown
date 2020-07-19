@@ -3,7 +3,7 @@ layout: post
 title: How the Grinch Stole Christmas
 img: how_the_grinch_stole_christmas.jpg
 tags: [Comedy, Family, Fantasy]
-number: No. 448
+number: No. 470
 review: [豆瓣 6.7, IMDb 6.2, Rotten Tomatoes 50%]
 douban_link: https://movie.douban.com/subject/1300926/
 imdb_link: https://www.imdb.com/title/tt0170016/

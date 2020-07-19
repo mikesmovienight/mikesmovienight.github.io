@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Iron Man 2
+img: iron_man_2.jpg
+tags: [Action, Adventure, Sci-Fi]
+number: No. 526
+review: [豆瓣 7.6, IMDb 7.0, Rotten Tomatoes 73%]
+douban_link: https://movie.douban.com/subject/3066739//
+imdb_link: https://www.imdb.com/title/tt1228705/
+rotten_link: https://www.rottentomatoes.com/m/iron_man_2
+---
+
+With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James "Rhodey" Rhodes at his side, must forge new alliances - and confront powerful enemies.

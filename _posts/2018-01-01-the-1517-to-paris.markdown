@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The 15:17 to Paris
+img: the_1517_to_paris.jpg
+tags: [Biography, Drama, Thriller]
+number: No. 475
+review: [豆瓣 5.7, IMDb 5.2, Rotten Tomatoes 23%]
+douban_link: https://movie.douban.com/subject/27028934/
+imdb_link: https://www.imdb.com/title/tt6802308/
+rotten_link: https://www.rottentomatoes.com/m/the_1517_to_paris
+---
+
+In the early evening of August 21, 2015, the world watched in stunned silence as the media reported a thwarted terrorist attack on Thalys train #9364 bound for Paris, an attempt prevented by three courageous young Americans travelling through Europe. This movie follows the course of the friends' lives, from the struggles of childhood through finding their footing in life, to the series of unlikely events leading up to the attack. Throughout the harrowing ordeal, their friendship never wavers, making it their greatest weapon and allowing them to save the lives of the more than five hundred passengers on-board.

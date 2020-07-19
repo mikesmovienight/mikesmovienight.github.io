@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Aquaman
+img: aquaman.jpg
+tags: [Action, Adventure, Fantasy, Sci-Fi]
+number: No. 550
+review: [豆瓣 7.6, IMDb 7.0, Rotten Tomatoes 65%]
+douban_link: https://movie.douban.com/subject/3878007/
+imdb_link: https://www.imdb.com/title/tt1477834/
+rotten_link: https://www.rottentomatoes.com/m/aquaman_2018
+---
+
+Arthur Curry (Jason Momoa), half human-half Atlantean, goes on a trip of a lifetime. Not only does this adventure compel him to come to terms with his real identity, but it also forces him to discover whether he is entirely worthy of fulfilling his own destiny: becoming a King.

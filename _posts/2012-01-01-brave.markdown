@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Brave
+img: brave.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy]
+number: No. 520
+review: [豆瓣 7.5, IMDb 7.1, Rotten Tomatoes 78%]
+douban_link: https://movie.douban.com/subject/3036473//
+imdb_link: https://www.imdb.com/title/tt1217209/
+rotten_link: https://www.rottentomatoes.com/m/brave_2012
+---
+
+Set in Scotland in a rugged and mythical time, this movie features Princess Merida (Kelly Macdonald), an aspiring archer and impetuous daughter of Queen Elinor (Dame Emma Thompson). Merida makes a reckless choice that unleashes unintended peril and forces her to spring into action to set things right.

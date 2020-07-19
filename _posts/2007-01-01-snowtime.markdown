@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Snowtime
+img: snowtime.jpg
+tags: [Animation, Short]
+number: No. 472
+review: [豆瓣 n/a, IMDb 6.8, Rotten Tomatoes 71%]
+douban_link: 
+imdb_link: https://www.imdb.com/title/tt1358497/
+rotten_link: https://www.rottentomatoes.com/m/snowtime_2015
+---
+
+Snowtime is the sequel to the multi-award winning short animation, Fetch. We re-join Colin as he takes Cumberland for a walk in a snowstorm. Colin complains about the weather while Cumberland does his best to ignore him.

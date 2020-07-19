@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Hancock
+img: hancock.jpg
+tags: [Action, Fantasy]
+number: No. 535
+review: [豆瓣 6.9, IMDb 6.4, Rotten Tomatoes 41%]
+douban_link: https://movie.douban.com/subject/1949312/
+imdb_link: https://www.imdb.com/title/tt0448157/
+rotten_link: https://www.rottentomatoes.com/m/hancock
+---
+
+The powerful superhero John Hancock has become a joke because of his alcoholism and clumsiness. He has also become the most hated man in Los Angeles. Though he has saved many lives, he also destroyed a lot of property, costing the city millions every time he goes into action. When he saves the life of PR expert Ray Embrey from an oncoming train, the executive is thankful and believes he can restore Hancock's image as a true superhero. He brings the anti-hero home for dinner and introduces him to his son Aaron, a big fan, and to his wife, Mary. But for some mysterious reason Mary doesn't want Hancock anywhere near her or her family.

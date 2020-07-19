@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Up
+img: up.jpg
+tags: [Animation, Adventure, Comedy, Family]
+number: No. 519
+review: [豆瓣 9.0, IMDb 8.2, Rotten Tomatoes 98%]
+douban_link: https://movie.douban.com/subject/2129039/
+imdb_link: https://www.imdb.com/title/tt1049413/
+rotten_link: https://www.rottentomatoes.com/m/up
+---
+
+As a boy, Carl Fredricksen wanted to explore South America and find the forbidden Paradise Falls. About 64 years later he gets to begin his journey along with Boy Scout Russell by lifting his house with thousands of balloons. On their journey, they make many new friends including a talking dog, and figure out that someone has evil plans. Carl soon realizes that this evildoer is his childhood idol.

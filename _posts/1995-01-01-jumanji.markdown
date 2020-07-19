@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Jumanji
+img: jumanji.jpg
+tags: [Adventure, Comedy, Family, Fantasy]
+number: No. 516
+review: [豆瓣 8.1, IMDb 7.0, Rotten Tomatoes 54%]
+douban_link: https://movie.douban.com/subject/1294990/
+imdb_link: https://www.imdb.com/title/tt0113497/
+rotten_link: https://www.rottentomatoes.com/m/1068044_jumanji
+---
+
+After being trapped in a jungle board game for 26 years, a Man-Child finally wins his release from it. But he is immediately forced to resume play, and this time, savage jungle creatures are released into the city. He must stop them, but how?

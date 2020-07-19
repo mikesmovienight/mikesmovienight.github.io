@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Thor
+img: thor.jpg
+tags: [Action, Adventure, Fantasy]
+number: No. 543
+review: [豆瓣 7.1, IMDb 7.0, Rotten Tomatoes 77%]
+douban_link: https://movie.douban.com/subject/1866471/
+imdb_link: https://www.imdb.com/title/tt0800369/
+rotten_link: https://www.rottentomatoes.com/m/thor
+---
+
+The warrior Thor (Chris Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Sir Anthony Hopkins) for his arrogance and sent to Earth to live amongst humans. Falling in love with scientist Jane Foster (Natalie Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth.
