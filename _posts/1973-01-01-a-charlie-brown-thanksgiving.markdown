@@ -10,4 +10,4 @@ imdb_link: https://www.imdb.com/title/tt0068359/
 rotten_link: https://www.rottentomatoes.com/m/charlie_brown_thanksgiving
 ---
 
-None
+Peppermint Patty invites herself and her friends over to Charlie Brown's for Thanksgiving, and with Linus, Snoopy, and Woodstock, he attempts to throw together a Thanksgiving dinner.
