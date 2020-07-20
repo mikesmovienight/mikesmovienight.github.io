@@ -3,6 +3,10 @@
 {% include head.html %}
 <body>
   {{ content }}
+  {% assign sorted_pages = site.pages | sort:"number" %}
+  {% for node in sorted_pages %}
+    <li><a href="{{node.url}}">{{node.title}}</a></li>
+  {% endfor %}
   {% include javascripts.html %}
   {% include analytics.html %}
 </body>
