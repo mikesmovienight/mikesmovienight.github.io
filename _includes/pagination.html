@@ -1,7 +1,7 @@
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
-  <a href="{{ '/' | relative_url }}">{{ First }}</a>
+  <a href="{{ '/' | relative_url }}">&laquo; First </a>
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
   {% else %}
@@ -28,6 +28,6 @@
 		<span>Next &raquo;</span>
   {% endif %}
   
-  <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages }}">{{ Last }}</a>
+  <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages }}"> Last &raquo;</a>
 </div>
 {% endif %}
