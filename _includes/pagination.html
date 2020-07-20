@@ -3,7 +3,7 @@
 <div class="pagination">
   <a href="{{ '/' | relative_url }}">&laquo; First </a>
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&lsaquo; Prev</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
@@ -23,7 +23,7 @@
   {% endfor %}
 	  
   {% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+		<a href="{{ paginator.next_page_path | relative_url }}">Next &rsaquo;</a>
   {% else %}
 		<span>Next &raquo;</span>
   {% endif %}
