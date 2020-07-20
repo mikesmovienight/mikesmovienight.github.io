@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Star
+img: the_star.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy]
+number: No. 449
+review: [豆瓣 7.2, IMDb 6.2, Rotten Tomatoes 42%]
+douban_link: https://movie.douban.com/subject/26981162/
+imdb_link: https://www.imdb.com/title/tt4587656/
+rotten_link: https://www.rottentomatoes.com/m/the_star_2017
+---
+
+In Sony Pictures Animation's THE STAR, a small but brave donkey named Bo yearns for a life beyond his daily grind at the village mill. One day he finds the courage to break free, and finally goes on the adventure of his dreams. On his journey, he teams up with Ruth, a lovable sheep who has lost her flock and Dave, a dove with lofty aspirations. Along with three wisecracking camels and some eccentric stable animals, Bo and his new friends follow the Star and become accidental heroes in the greatest story ever told - the first Christmas.

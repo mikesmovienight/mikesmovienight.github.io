@@ -1,0 +1,13 @@
+---
+layout: post 
+title: The Bible
+img: the_bible.jpg
+tags: [Action, Drama, War]
+number: No. 214
+review: [豆瓣 8.3, IMDb 7.5, Rotten Tomatoes n/a]
+douban_link: https://movie.douban.com/subject/20451283/
+imdb_link: https://www.imdb.com/title/tt2245988/
+rotten_link: 
+---
+
+None

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Rio 2
+img: rio_2.jpg
+tags: [Animation, Adventure, Comedy, Family, Musical]
+number: No. 463
+review: [豆瓣 7.7, IMDb 6.3, Rotten Tomatoes 48%]
+douban_link: https://movie.douban.com/subject/11443314//
+imdb_link: https://www.imdb.com/title/tt2357291/
+rotten_link: https://www.rottentomatoes.com/m/rio_2
+---
+
+It's a jungle out there for Blu, Jewel and their three kids after they're hurtled Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel, and meets the most fearsome adversary of all: his father-in-law.

@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Slow Fade
+img: slow_fade.jpg
+tags: [Drama, Family]
+number: No. 308
+review: [豆瓣 n/a, IMDb 5.3, Rotten Tomatoes n/a]
+douban_link: https://movie.douban.com/subject/35051862/
+imdb_link: https://www.imdb.com/title/tt2532806/
+rotten_link: https://www.rottentomatoes.com/m/slow_fade
+---
+
+Thomas, defined by the influences in his world, must make things right with the help of an unlikely mentor.
