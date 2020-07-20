@@ -2,7 +2,7 @@
 layout: post 
 title: The Drop Box
 img: the_drop_box.jpg
-tags: [Documentary, Biography, News]
+tags: [Documentary, Biography]
 number: No. 584
 review: [豆瓣 n/a, IMDb 7.9, Rotten Tomatoes 90%]
 douban_link: https://movie.douban.com/subject/26337373/

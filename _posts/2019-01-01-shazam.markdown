@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Shazam
+img: shazam.jpg
+tags: [Action, Adventure, Comedy, Fantasy]
+number: No. 283
+review: [豆瓣 6.3, IMDb 8.1, Rotten Tomatoes 90%]
+douban_link: https://movie.douban.com/subject/2244426//
+imdb_link: https://www.imdb.com/title/tt0448115/
+rotten_link: https://www.rottentomatoes.com/m/shazam
+---
+
+In Philadelphia, Billy Batson is an abandoned child who is proving a nuisance to Child Services and the authorities with his stubborn search for his lost mother. However, in his latest foster home, Billy makes a new friend, Freddy, and finds himself selected by the Wizard Shazam to be his new champion. Now endowed with the ability to instantly become an adult superhero by speaking the wizard's name, Billy gleefully explores his new powers with Freddy. However, Billy soon learns that he has a deadly enemy, Dr. Thaddeus Sivana, who was previously rejected by the wizard and has accepted the power of the Seven Deadly Sins instead. Now pursued by this mad scientist for his own power as well, Billy must face up to the responsibilities of his calling while learning the power of a special magic with his true family that Sivana can never understand.
