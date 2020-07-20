@@ -5,7 +5,7 @@
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&lsaquo; Prev</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&lsaquo; Prev</span>
   {% endif %}
   
   {% assign start_i = paginator.page | minus: 2 %}
@@ -25,7 +25,7 @@
   {% if paginator.next_page %}
 		<a href="{{ paginator.next_page_path | relative_url }}">Next &rsaquo;</a>
   {% else %}
-		<span>Next &raquo;</span>
+		<span>Next &rsaquo;</span>
   {% endif %}
   
   <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages }}"> Last &raquo;</a>
