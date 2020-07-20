@@ -1,0 +1,13 @@
+---
+layout: post 
+title: Cleo
+img: cleo.jpg
+tags: [Animation, Comedy, Drama, Family]
+number: No. 472
+review: [豆瓣 6.1, IMDb 6.0, Rotten Tomatoes n/a]
+douban_link: https://movie.douban.com/subject/26681656//
+imdb_link: https://www.imdb.com/title/tt5143700/
+rotten_link: 
+---
+
+To amuse themselves during the winter school break, the kids in a small village decide to have a massive snowball fight. Luke and Sophie, both 11 years old, become the leaders of the opposing sides. Sophie and her cohort defend an elaborate snow fort against the assault of Luke's horde. Whichever side occupies the fort at the end of the winter break, wins.

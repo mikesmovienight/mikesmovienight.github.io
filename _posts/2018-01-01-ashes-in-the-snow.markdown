@@ -10,4 +10,4 @@ imdb_link: https://www.imdb.com/title/tt3759298/
 rotten_link: https://www.rottentomatoes.com/m/ashes_in_the_snow
 ---
 
-None
+In 1941, a 16-year-old aspiring artist and her family are deported to Siberia amidst Stalin's brutal dismantling of the Baltic region. One girl's passion for art and her never-ending hope will break the silence of history.
