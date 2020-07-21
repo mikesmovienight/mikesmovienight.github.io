@@ -35,13 +35,6 @@ def get_page_dbpic_html(url):
         'referer': 'https://movie.douban.com',
         'host': 'movie.douban.com',
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-        # 'accept-encoding': 'gzip, deflate, br',
-        # 'accept-language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
-        # 'sec-fetch-dest': 'document',
-        # 'sec-fetch-mode': 'navigate',
-        # 'sec-fetch-site': 'none',
-        # 'sec-fetch-user': '?1',
-        # 'upgrade-insecure-requests': '1',
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'
     }
     response = requests.get(url, headers=headers)
@@ -110,8 +103,8 @@ if __name__ == '__main__':
             plot = str(movieinfo.get('plot outline'))
             release_year = str(movieinfo.get('year'))
             title_post = movietitle.replace(': ', ' - ')
-            title_name = movietitle.replace(' ', '-').replace(':', '').replace('\'', '').replace('?', '').replace('.', '').lower()
-            title_img = movietitle.replace(' ', '_').replace(':', '').replace('\'', '').replace('?', '').replace('.', '').lower()
+            title_name = movietitle.replace(' ', '-').replace(':', '').replace('\'', '').replace('?', '').replace('!', '').replace('.', '').replace('(', '-').replace(')', '-').lower()
+            title_img = title_name
             imdb_url = ia.get_imdbURL(movie[0])
 
             print(number)
@@ -167,13 +160,12 @@ if __name__ == '__main__':
                     # print(poster_url)
 
                     # download douban poster
-                    filename = './imgs/' + title_img + '.jpg'
+                    filename = './assets/img/' + title_img + '.jpg'
                     r = requests.get(poster_url, allow_redirects=True)
                     open(filename, 'wb').write(r.content)
-                    # urlretrieve(poster_url, filename)
 
             # create markdown for movies
-            with open('./posts/' + str(release_year) + '-01-01-' + title_name + '.markdown', 'w', encoding="utf-8") as f:
+            with open('./_posts/' + str(release_year) + '-01-01-' + title_name + '.markdown', 'w', encoding="utf-8") as f:
                 f.write('---\nlayout: post \ntitle: ' + title_post + '\nimg: ' + title_img + '.jpg\ntags: [')
                 for i in range(len(tags) - 1):
                     f.write(tags[i] + ', ')
@@ -186,6 +178,6 @@ if __name__ == '__main__':
                 f.write('douban_link: ' + douban_url +'\nimdb_link: ' + imdb_url + '\nrotten_link: ' + rotten_url + '\n---\n\n' + plot)
 
             # update movie list with addition(s)
-            # with open('movie_list.csv', 'a') as m:
-            #     writer = csv.writer(m, delimiter=',')
-            #     writer.writerow([number, movietitle])
+            with open('movie_list.csv', 'a') as m:
+                writer = csv.writer(m, delimiter=',')
+                writer.writerow([number, movietitle])
