@@ -12,5 +12,4 @@ This website includes hundreds of movies in Mike's collection with movie's story
 
 GNU General Public License v3.0
 
-## Thank You
-<p align="center"><b>Thank you for joining the movie family ❤️</b></p>
+## <b>Thank you for joining the movie family ❤️</b>
