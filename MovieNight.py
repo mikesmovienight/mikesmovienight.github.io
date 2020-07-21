@@ -95,7 +95,6 @@ def get_movie_dbpic_info(url):
 if __name__ == '__main__':
     # get information for IMDb
     ia = IMDb()
-    counting = 0
     with open('movie_data.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
@@ -115,8 +114,7 @@ if __name__ == '__main__':
             title_img = movietitle.replace(' ', '_').replace(':', '').replace('\'', '').replace('?', '').replace('.', '').lower()
             imdb_url = ia.get_imdbURL(movie[0])
 
-            counting = counting + 1
-            print(counting)
+            print(number)
             print(movietitle)
 
             # get movie review from douban and rotten tomatoes
