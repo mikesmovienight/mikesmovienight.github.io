@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: The Jungle Book
+title: The Jungle Book (1967)
 img: the_jungle_book_1.jpg
 tags: [Animation, Adventure, Family, Musical]
 number: No. 400
