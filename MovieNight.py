@@ -153,11 +153,10 @@ if __name__ == '__main__':
                     poster_url = '.'.join(poster_url_lst)
 
                     # open the link of douban poster
-                    driver = webdriver.Chrome(ChromeDriverManager().install())
+                    driver = webdriver.Chrome(executable_path="./chromedriver.exe")
                     driver.get(poster_url)
                     sleep(1)
                     driver.close()
-                    # print(poster_url)
 
                     # download douban poster
                     filename = './assets/img/' + title_img + '.jpg'
@@ -172,9 +171,6 @@ if __name__ == '__main__':
                 f.write(tags[-1] + ']\n')
                 f.write('number: No. ' + number +'\n')
                 f.write('review: [豆瓣 ' + douban_rating + ', IMDb ' + review + ', Rotten Tomatoes ' + rotten_rating + ']\n')
-                # f.write('Douban '+ douban_rating + ': [' + douban_url + ']\n')
-                # f.write('IMDb ' + review + ': [' + imdb_url + ']\n')
-                # f.write('Rotten Tomatoes ' + rotten_rating + ': [' + rotten_url + ']\n---\n\n' + plot)
                 f.write('douban_link: ' + douban_url +'\nimdb_link: ' + imdb_url + '\nrotten_link: ' + rotten_url + '\n---\n\n' + plot)
 
             # update movie list with addition(s)
