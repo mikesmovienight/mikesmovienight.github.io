@@ -1,9 +1,9 @@
 ---
 layout: post 
 title: Forever My Girl
-img: forever_my_girl.jpg
+img: forever-my-girl.jpg
 tags: [Drama, Music, Romance]
-number: No. 522
+number: No. 595
 review: [豆瓣 6.2, IMDb 6.7, Rotten Tomatoes 25%]
 douban_link: https://movie.douban.com/subject/27064880/
 imdb_link: https://www.imdb.com/title/tt4103724/

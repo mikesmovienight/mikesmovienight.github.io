@@ -1,10 +1,10 @@
 ---
 layout: post 
 title: Sonic the Hedgehog
-img: sonic_the_hedgehog.jpg
+img: sonic-the-hedgehog.jpg
 tags: [Action, Adventure, Comedy, Family, Sci-Fi]
-number: No. 415
-review: [豆瓣 6.1, IMDb 6.6, Rotten Tomatoes 63%]
+number: No. 596
+review: [豆瓣 6.1, IMDb 6.6, Rotten Tomatoes 62%]
 douban_link: https://movie.douban.com/subject/25905044/
 imdb_link: https://www.imdb.com/title/tt3794354/
 rotten_link: https://www.rottentomatoes.com/m/sonic_the_hedgehog_2020

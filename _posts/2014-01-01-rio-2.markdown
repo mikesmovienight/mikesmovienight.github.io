@@ -1,9 +1,9 @@
 ---
 layout: post 
 title: Rio 2
-img: rio_2.jpg
-tags: [Animation, Adventure, Comedy, Family, Musical]
-number: No. 463
+img: rio-2.jpg
+tags: [Animation, Adventure, Comedy, Family, Fantasy, Musical]
+number: No. 594
 review: [豆瓣 7.7, IMDb 6.3, Rotten Tomatoes 48%]
 douban_link: https://movie.douban.com/subject/11443314//
 imdb_link: https://www.imdb.com/title/tt2357291/
