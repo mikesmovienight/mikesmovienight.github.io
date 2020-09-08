@@ -90,90 +90,91 @@ if __name__ == '__main__':
     ia = IMDb()
     with open('movie_data.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
-        for row in csv_reader:
-            number = str(row[0])
+        with open('movie_list.csv', 'a') as m:
+            for row in csv_reader:
+                number = str(row[0])
 
-            # get movie information from IMDb
-            movie = ia.search_movie(str(row[1]))
-            movieid = movie[0].movieID
-            movietitle = str(ia.get_movie(movieid)).replace('?', '')
-            movieinfo = ia.get_movie(movieid, info=['main'])
-            tags = movieinfo.get('genres')
-            review = str(movieinfo.get('rating'))
-            plot = str(movieinfo.get('plot outline'))
-            release_year = str(movieinfo.get('year'))
-            title_post = movietitle.replace(': ', ' - ')
-            title_name = movietitle.replace(' ', '-').replace(':', '').replace('\'', '').replace('?', '').replace('!', '').replace('.', '').replace('(', '-').replace(')', '-').lower()
-            title_img = title_name
-            imdb_url = ia.get_imdbURL(movie[0])
+                # get movie information from IMDb
+                movie = ia.search_movie(str(row[1]))
+                movieid = movie[0].movieID
+                movietitle = str(ia.get_movie(movieid)).replace('?', '')
+                movieinfo = ia.get_movie(movieid, info=['main'])
+                tags = movieinfo.get('genres')
+                review = str(movieinfo.get('rating'))
+                plot = str(movieinfo.get('plot outline'))
+                release_year = str(movieinfo.get('year'))
+                title_post = movietitle.replace(': ', ' - ')
+                title_name = movietitle.replace(' ', '-').replace(':', '').replace('\'', '').replace('?', '').replace('!', '').replace('.', '').replace('(', '-').replace(')', '-').lower()
+                title_img = title_name
+                imdb_url = ia.get_imdbURL(movie[0])
 
-            print(number)
-            print(movietitle)
+                print(number)
+                print(movietitle)
 
-            # get movie review from douban and rotten tomatoes
-            try:
-                from googlesearch import search
-            except ImportError:
-                print("No module named 'google' found")
-            query = 'douban movie ' + movietitle + release_year
-            douban_url = ''
-            for j in search(query, tld="com", num=10, stop=10, pause=2):
-                if j.startswith('https://movie.douban.com/subject') and re.match('[0-9]+[/][/]$|[0-9]+[/]$', j[33:]):
-                    douban_url = j
-                    break
-                elif j.startswith('https://m.douban.com/movie/subject') and re.match('[0-9]+[/][/]$|[0-9]+[/]$', j[35:]):
-                    douban_url = 'https://movie.douban.com/subject/' + j[35:]
-                    break
-            query = 'rotten tomatoes ' + movietitle + release_year
-            rotten_url = ''
-            for i in search(query, tld="com", num=10, stop=10, pause=2):
-                if i.startswith('https://www.rottentomatoes.com/m/'):
-                    rotten_url = i
-                    break
-            if douban_url != '':
-                douban_rating = str(get_movie_db_info(douban_url))
-            else:
-                douban_rating = 'n/a'
-            if rotten_url != '':
-                rotten_rating = str(get_movie_rt_info(rotten_url))
-            else:
-                rotten_rating = 'n/a'
-
-
-            # get douban posters
-            if douban_url != '':
-                if douban_url[-2] == '/':
-                    dbpic_url = douban_url[0:len(douban_url) - 1] + 'photos?type=R'
+                # get movie review from douban and rotten tomatoes
+                try:
+                    from googlesearch import search
+                except ImportError:
+                    print("No module named 'google' found")
+                query = 'douban movie ' + movietitle + release_year
+                douban_url = ''
+                for j in search(query, tld="com", num=10, stop=10, pause=2):
+                    if j.startswith('https://movie.douban.com/subject') and re.match('[0-9]+[/][/]$|[0-9]+[/]$', j[33:]):
+                        douban_url = j
+                        break
+                    elif j.startswith('https://m.douban.com/movie/subject') and re.match('[0-9]+[/][/]$|[0-9]+[/]$', j[35:]):
+                        douban_url = 'https://movie.douban.com/subject/' + j[35:]
+                        break
+                query = 'rotten tomatoes ' + movietitle + release_year
+                rotten_url = ''
+                for i in search(query, tld="com", num=10, stop=10, pause=2):
+                    if i.startswith('https://www.rottentomatoes.com/m/'):
+                        rotten_url = i
+                        break
+                if douban_url != '':
+                    douban_rating = str(get_movie_db_info(douban_url))
                 else:
-                    dbpic_url = douban_url[0:len(douban_url) - 1] + '/photos?type=R'
-                poster_url = get_movie_dbpic_info(dbpic_url)
-                if poster_url != '':
-                    poster_url_lst = poster_url.split('.')
-                    poster_url_lst[-1] = 'jpg'
-                    poster_url = '.'.join(poster_url_lst)
+                    douban_rating = 'n/a'
+                if rotten_url != '':
+                    rotten_rating = str(get_movie_rt_info(rotten_url))
+                else:
+                    rotten_rating = 'n/a'
 
-                    # open the link of douban poster
-                    driver = webdriver.Chrome(executable_path="./chromedriver.exe")
-                    driver.get(poster_url)
-                    sleep(1)
-                    driver.close()
 
-                    # download douban poster
-                    filename = './assets/img/' + title_img + '.jpg'
-                    r = requests.get(poster_url, allow_redirects=True)
-                    open(filename, 'wb').write(r.content)
+                # get douban posters
+                if douban_url != '':
+                    if douban_url[-2] == '/':
+                        dbpic_url = douban_url[0:len(douban_url) - 1] + 'photos?type=R'
+                    else:
+                        dbpic_url = douban_url[0:len(douban_url) - 1] + '/photos?type=R'
+                    poster_url = get_movie_dbpic_info(dbpic_url)
+                    if poster_url != '':
+                        poster_url_lst = poster_url.split('.')
+                        poster_url_lst[-1] = 'jpg'
+                        poster_url = '.'.join(poster_url_lst)
 
-            # create markdown for movies
-            with open('./_posts/' + str(release_year) + '-01-01-' + title_name + '.markdown', 'w', encoding="utf-8") as f:
-                f.write('---\nlayout: post \ntitle: ' + title_post + '\nimg: ' + title_img + '.jpg\ntags: [')
-                for i in range(len(tags) - 1):
-                    f.write(tags[i] + ', ')
-                f.write(tags[-1] + ']\n')
-                f.write('number: No. ' + number +'\n')
-                f.write('review: [豆瓣 ' + douban_rating + ', IMDb ' + review + ', Rotten Tomatoes ' + rotten_rating + ']\n')
-                f.write('douban_link: ' + douban_url +'\nimdb_link: ' + imdb_url + '\nrotten_link: ' + rotten_url + '\n---\n\n' + plot)
+                        # open the link of douban poster
+                        driver = webdriver.Chrome(executable_path="./chromedriver.exe")
+                        driver.get(poster_url)
+                        sleep(1)
+                        driver.close()
 
-            # update movie list with addition(s)
-            with open('movie_list.csv', 'a') as m:
-                writer = csv.writer(m, delimiter=',')
-                writer.writerow([number, movietitle])
+                        # download douban poster
+                        filename = './assets/img/' + title_img + '.jpg'
+                        r = requests.get(poster_url, allow_redirects=True)
+                        open(filename, 'wb').write(r.content)
+
+                # create markdown for movies
+                with open('./_posts/' + str(release_year) + '-01-01-' + title_name + '.markdown', 'w', encoding="utf-8") as f:
+                    f.write('---\nlayout: post \ntitle: ' + title_post + '\nimg: ' + title_img + '.jpg\ntags: [')
+                    for i in range(len(tags) - 1):
+                        f.write(tags[i] + ', ')
+                    f.write(tags[-1] + ']\n')
+                    f.write('number: No. ' + number +'\n')
+                    f.write('review: [豆瓣 ' + douban_rating + ', IMDb ' + review + ', Rotten Tomatoes ' + rotten_rating + ']\n')
+                    f.write('douban_link: ' + douban_url +'\nimdb_link: ' + imdb_url + '\nrotten_link: ' + rotten_url + '\n---\n\n' + plot)
+
+                # update movie list with addition(s)
+                # writer = csv.writer(m, delimiter=',')
+                # writer.writerow([number, movietitle])
+                m.write(number + ',' + movietitle + '\n')
